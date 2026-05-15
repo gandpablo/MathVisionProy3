@@ -1,0 +1,864 @@
+idioma,Opciones,Tematica,ground truth,ano,Nivel,response Gemini 2.0 Flash,response Gemini 2.0 Flash Lite,response Llama 3.2 11B Vision Instruct,response Llama 3.2 90B Vision Instruct,response Pixtral-12B,response Pixtral Large,response Qwen-VL 72B,response GPT-4o,response Qwen-VL 7B,resultado_respuesta_general,resultado_respuesta_final,resultado_respuesta_A,resultado_respuesta_B,resultado_respuesta_C,resultado_respuesta_D,resultado_respuesta_E
+castellano,A) B) C) D) E),Geometría y Figuras,E,2024,1,B,B,No Answer,E,No Answer,B,C,C,B,A,A,True,True,True,True,True
+castellano,A) 2 B) 3 C) 4 D) 5 E) Pedro no puede completar la tabla,Patrones y Secuencias,E,2024,1,B,B,No Answer,E,B,B,B,E,B,B,B,False,True,True,False,False
+castellano,A) 12 B) 16 C) 18 D) 21 E) 22,Geometría y Figuras,C,2024,1,No Answer,E,A,E,D,E,C,D,C,D,C,False,False,True,True,False
+castellano,A) 1 B) 2 C) 4 D) 5 E) 7,Patrones y Secuencias,A,2024,1,C,No Answer,A,A,D,B,D,B,C,B,C,False,True,True,True,False
+castellano,A) 4 B) 5 C) 6 D) 7 E) 8,Geometría y Figuras,C,2024,1,No Answer,No Answer,No Answer,A,D,C,B,B,C,C,C,False,False,True,True,False
+castellano,A) 1 B) 2 C) 3 D) 4 E) 5,Combinatoria y Probabilidad,D,2024,1,A,D,No Answer,No Answer,D,D,B,B,C,D,D,False,False,True,True,False
+castellano,A) B) C) D) E),Lógica y Razonamiento Visual,E,2024,1,D,E,No Answer,A,No Answer,D,E,D,A,A,A,False,False,False,False,False
+castellano,A) 18 B) 20 C) 24 D) 30 E) 36,Geometría y Figuras,E,2024,1,E,No Answer,C,No Answer,D,C,E,E,C,E,E,False,False,True,True,True
+castellano,A) 3 B) 4 C) 5 D) 6 E) 7,Geometría y Figuras,A,2024,1,B,B,B,C,C,E,E,C,B,B,B,False,True,False,False,False
+castellano,A) B) C) D) E),Geometría y Figuras,B,2024,2,A,B,A,No Answer,E,A,A,A,D,A,A,True,False,False,False,False
+castellano,A) Lo cierto es que ninguna de las cuatro tazas se apoya en su platillo correspondiente. B) Es seguro que hay exactamente una taza en su platillo correspondiente. C) Es imposible que haya exactamente dos tazas en su platillo correspondiente. D) Es imposible que queden exactamente tres tazas en su platillo correspondiente. E) Es imposible que las cuatro tazas estén sobre su platillo correspondiente.,Patrones y Secuencias,D,2024,2,D,A,A,A,E,No Answer,D,E,E,C,C,False,False,True,True,False
+castellano,A) 2 B) 3 C) 4 D) 5 E) 6,Patrones y Secuencias,B,2024,2,D,D,No Answer,No Answer,E,C,D,B,D,A,E,False,False,False,False,False
+castellano,A) B) C) D) E),Patrones y Secuencias,C,2024,2,D,E,D,A,E,E,C,D,B,D,D,False,False,False,False,False
+castellano,A) A B) B C) C D) D E) E,Álgebra y Aritmética Visual,E,2024,2,E,A,No Answer,No Answer,A,C,A,E,A,A,A,True,True,True,True,True
+castellano,A) 7 B) 8 C) 9 D) 10 E) 11,Combinatoria y Probabilidad,C,2024,2,D,E,A,No Answer,D,E,B,C,E,E,E,False,True,True,True,True
+castellano,A) 36 B) 40 C) 44 D) 48 E) 52,Geometría y Figuras,B,2024,2,E,B,A,No Answer,D,D,B,A,A,D,D,False,True,True,True,False
+castellano,A) 26 B) 40 C) 43 D) 47 E) 56,Lógica y Razonamiento Visual,C,2024,2,D,No Answer,A,A,E,E,C,No Answer,E,D,D,False,False,True,True,False
+castellano,A) B) C) D) E),Geometría y Figuras,B,2024,2,D,E,C,E,D,C,B,B,A,A,A,True,True,True,True,True
+castellano,A) 5 B) 10 C) 15 D) 20 E) Es imposible construirlo,Geometría y Figuras,B,2024,2,A,A,B,No Answer,No Answer,D,A,A,A,A,A,False,False,False,False,False
+castellano,A) 10 B) 14 C) 16 D) 18 E) 20,Patrones y Secuencias,E,2024,2,E,No Answer,A,A,C,E,E,D,A,B,B,False,True,True,False,False
+castellano,A) B) C) D) E),Geometría y Figuras,B,2024,3,C,No Answer,A,No Answer,D,C,E,A,C,A,A,True,True,True,True,True
+castellano,A) 3 B) 4 C) 6 D) 9 E) 12,Geometría y Figuras,C,2024,3,C,C,A,D,C,C,A,C,C,C,C,False,False,True,False,False
+castellano,A) Triángulo B) Cuadrado C) Rectángulo D) Romboide E) Pentágono,Combinatoria y Probabilidad,A,2024,3,A,A,No Answer,D,E,C,A,A,A,A,A,False,False,False,False,False
+castellano,A) 422 min B) 582 min C) 772 min D) 962 min E) 1042 min,Geometría y Figuras,D,2024,3,D,D,A,C,E,D,E,D,A,C,B,False,False,True,False,False
+castellano,A) 110° B) 114° C) 118° D) 122° E) 126°,Geometría y Figuras,E,2024,3,E,B,No Answer,D,C,C,C,E,B,A,B,False,False,False,False,False
+castellano,A) B) C) D) E),Geometría y Figuras,C,2024,4,A,A,No Answer,E,E,B,C,D,D,A,A,True,True,True,True,True
+castellano,A) 20% B) 25% C) 30% D) 40% E) 50%,Geometría y Figuras,E,2024,4,E,E,No Answer,C,D,E,E,E,E,A,E,False,False,False,False,False
+castellano,A) 8 B) 9 C) 11 D) 12 E) 15,Geometría y Figuras,D,2024,4,D,D,C,C,D,D,D,D,C,D,D,False,True,True,True,True
+castellano,A) 3 B) 4 C) 6 D) 8 E) 9,Patrones y Secuencias,B,2024,4,No Answer,B,C,C,E,B,B,E,D,C,C,False,False,True,False,False
+castellano,A) 5° B) 4° C) 3° D) 2° E) 1°,Geometría y Figuras,B,2024,4,B,B,A,E,C,No Answer,B,B,C,B,B,False,True,True,True,True
+castellano,A) 3 B) 4 C) 5 D) 6 E) 7,Combinatoria y Probabilidad,B,2024,4,No Answer,No Answer,C,No Answer,D,B,B,D,C,D,D,False,True,True,True,False
+castellano,A) 0 m^2 B) 1 m^2 C) 2 m^2 D) 5 m^2 E) 10 m^2,Geometría y Figuras,A,2024,4,A,A,No Answer,A,D,E,A,A,A,A,A,True,True,True,True,False
+castellano,A) 34 B) 40 C) 46 D) 52 E) 58,Geometría y Figuras,D,2024,4,D,B,No Answer,A,No Answer,A,A,A,B,,,,,,,
+castellano,A) 60° B) 70° C) 75° D) 90° E) 120°,Geometría y Figuras,D,2024,4,D,No Answer,No Answer,A,D,E,D,D,D,A,A,False,False,False,False,False
+castellano,A) 12 B) 24 C) 36 D) 40 E) 48,Patrones y Secuencias,C,2024,5,A,A,No Answer,No Answer,D,C,A,C,A,C,C,False,True,True,True,False
+castellano,A) 14 cm B) 15 cm C) 16 cm D) 17 cm E) 18 cm,Geometría y Figuras,B,2024,5,No Answer,No Answer,A,C,A,No Answer,B,B,E,D,D,False,False,True,True,True
+castellano,A) 105° B) 110° C) 115° D) 120° E) 125°,Geometría y Figuras,A,2024,5,A,C,No Answer,E,D,No Answer,A,A,A,A,A,False,False,False,False,False
+castellano,A) 20 B) 40 C) 80 D) 120 E) 480,Álgebra y Aritmética Visual,B,2024,5,No Answer,No Answer,A,No Answer,E,E,E,C,E,C,C,False,False,True,True,True
+castellano,A) √5 B) 1 + √2 C) 5/2 D) 1 + √3 E) 2√2,Lógica y Razonamiento Visual,B,2024,5,B,B,A,E,D,D,D,D,A,C,C,True,True,False,True,True
+castellano,A) 90 B) 100 C) 120 D) 140 E) 160,Geometría y Figuras,C,2024,5,C,No Answer,A,No Answer,E,D,B,A,C,A,A,False,False,False,False,False
+castellano,A) 5° B) 8° C) 9° D) 10° E) 12°,Geometría y Figuras,E,2024,6,E,E,A,A,D,No Answer,E,A,E,A,E,False,False,False,False,False
+castellano,A) 3 B) 4 C) 5 D) 6 E) 7,Patrones y Secuencias,C,2024,6,B,A,No Answer,C,C,B,B,B,B,B,B,False,True,True,True,False
+castellano,A) A = C B) B = A + C C) A+B+C = 1/2 área total D) A+B+C = 3/4 área total E) A+B+C = área total  ,Combinatoria y Probabilidad,B,2024,6,A,No Answer,A,B,No Answer,E,A,D,A,C,C,False,False,True,True,False
+castellano,A) 2√34 B) 12 C) 13 D) 10 E) Ninguno de los anteriores,Combinatoria y Probabilidad,D,2024,6,D,D,A,No Answer,No Answer,D,D,D,E,D,D,False,True,True,True,False
+castellano,A) 9 B) 3π C) 6π-9 D) 3π+9 E) 12,Geometría y Figuras,A,2024,6,No Answer,A,A,No Answer,C,No Answer,C,C,C,C,C,False,False,True,False,False
+castellano,A) a+b+c  B) (a+b+c)/√2  C) √(a^2+b^2+c^2)/2  D) √(a^2+b^2+c^2) E) √(a^2+b^2+2c^2) ,Geometría y Figuras,C,2024,6,C,No Answer,A,No Answer,A,No Answer,C,C,E,C,C,False,True,True,False,False
+castellano,A) 2√2 B) √34 C) 10 D) 8 E) 6√2,Lógica y Razonamiento Visual,B,2024,6,No Answer,B,No Answer,No Answer,A,A,C,A,A,B,A,True,True,False,True,True
+castellano,"A) 2, 4 y 9 B) 1, 5 y 10 C) 4, 6 y 12 D) 3, 6 y 9 E) 5, 7 y 12",Geometría y Figuras,C,2023,1,No Answer,E,A,C,C,D,D,D,D,C,C,False,False,True,True,True
+castellano,A) 4 B) 5 C) 9 D) 12 E) 20,Geometría y Figuras,B,2023,1,B,B,No Answer,A,D,No Answer,B,B,D,E,E,False,False,False,,True
+castellano,"A) M, N, Q, P B) N, M, P, Q C) N,Q, M, P D) N, M, Q, P E) Q, N, M, P",Combinatoria y Probabilidad,D,2023,1,D,E,A,No Answer,B,C,D,E,B,E,E,False,False,False,False,True
+castellano,A) 9 B) 10 C) 11 D) 12 E) 13,Geometría y Figuras,D,2023,1,No Answer,D,No Answer,No Answer,E,D,A,E,E,B,B,False,True,True,True,True
+castellano,A) 380 cm B) 400 cm C) 420 cm D) 440 cm E) 1680 cm,Geometría y Figuras,C,2023,1,B,A,B,E,E,C,B,C,A,D,D,False,False,True,True,False
+castellano,A) 17 B) 15 C) 13 D) 10 E) 8,Álgebra y Aritmética Visual,E,2023,1,E,No Answer,D,A,D,B,E,A,E,D,D,False,True,True,True,False
+castellano,A) 1 y 2 B) 1 y 4 C) 2 y 3 D) 2 y 4 E) 3 y 4,Combinatoria y Probabilidad,D,2023,1,E,D,No Answer,C,E,A,A,D,A,A,A,True,True,False,False,True
+castellano,A) 1 y 11 B) 2 y 8 C) 3 y 7 D) 3 y 13 E) 7 y 13,Lógica y Razonamiento Visual,A,2023,1,No Answer,No Answer,B,B,No Answer,A,A,C,A,B,B,False,True,True,True,False
+castellano,A) 1 y 4 B) 2 y 3 C) 1 y 3 D) 2 y 4 E) No es posible determinarlo,Geometría y Figuras,B,2023,1,A,A,A,A,D,A,B,A,D,B,B,False,True,True,False,False
+castellano,A) 29 y 28 B) 34 y 35 C) 29 y 26 D) 31 y 33 E) 27 y 30,Álgebra y Aritmética Visual,E,2023,1,No Answer,A,A,D,No Answer,No Answer,C,No Answer,E,A,E,False,False,False,False,False
+castellano,A) W B) Diamante C) Corona D) Relámpago E) Todas tienen la misma área,Álgebra y Aritmética Visual,C,2023,1,D,A,No Answer,E,C,C,A,E,E,A,A,True,False,False,False,False
+castellano,A) Un triángulo y un cuadrilátero B) Un triángulo y un pentágono C) Un cuadrilátero y un pentágono D) Dos triángulos E) Dos cuadriláteros,Álgebra y Aritmética Visual,C,2023,2,B,B,No Answer,No Answer,A,A,C,B,B,A,B,True,False,False,True,True
+castellano,A) 1 B) 2 C) 3 D) 4 E) 5,Lógica y Razonamiento Visual,C,2023,2,C,E,No Answer,No Answer,No Answer,C,E,C,E,A,A,True,True,True,False,True
+castellano,A) 5.5 B) 6 C) 6.5 D) 7 E) 7.5,Patrones y Secuencias,D,2023,2,No Answer,No Answer,A,A,E,D,E,B,D,D,D,False,True,True,True,True
+castellano,A) 20 B) 24 C) 30 D) 36 E) 40,Geometría y Figuras,C,2023,2,C,C,B,A,E,No Answer,C,C,E,D,D,False,True,False,True,True
+castellano,A) 20% B) 30% C) 40% D) 50% E) 60%,Lógica y Razonamiento Visual,B,2023,2,A,B,No Answer,No Answer,D,No Answer,B,B,C,E,E,False,False,False,False,False
+castellano,A) B) C) D) E),Álgebra y Aritmética Visual,D,2023,2,B,D,E,No Answer,C,C,D,D,C,A,A,True,True,True,,
+castellano,A) 72° B) 90° C) 96° D) 100° E) 106°,Lógica y Razonamiento Visual,E,2023,2,C,E,No Answer,A,E,No Answer,E,C,E,A,A,False,False,False,False,False
+castellano,A) B) C) D) E),Geometría y Figuras,A,2023,3,A,A,No Answer,No Answer,No Answer,No Answer,A,A,A,E,A,False,False,False,False,False
+castellano,A) 11 B) 12 C) 13 D) 14 E) 15,Geometría y Figuras,B,2023,3,B,B,A,E,C,B,A,B,B,B,B,False,True,True,True,False
+castellano,A) 5 B) 6 C) 8 D) 10 E) 15,Álgebra y Aritmética Visual,D,2023,3,D,D,A,A,D,D,D,D,D,D,D,False,True,True,True,True
+castellano,A) 2 B) 3 C) 4 D) 5 E) 6,Lógica y Razonamiento Visual,B,2023,3,B,C,A,C,C,E,C,D,C,E,E,False,False,True,True,True
+castellano,A) 2 B) 4 C) 6 D) 8 E) 9,Lógica y Razonamiento Visual,C,2023,3,B,B,No Answer,No Answer,D,C,A,A,A,C,C,False,False,True,True,False
+castellano,A) 55º B) 60º C) 65º D) 70º E) 75º,Lógica y Razonamiento Visual,D,2023,3,No Answer,D,A,No Answer,D,No Answer,D,D,C,D,D,False,False,True,True,False
+castellano,A) 12 B) 8 C) 32 D) 24 E) 16,Geometría y Figuras,E,2023,3,No Answer,No Answer,A,No Answer,D,No Answer,E,E,B,E,E,False,False,False,False,False
+castellano,A) 37 B) 38 C) 39 D) 40 E) 41,Álgebra y Aritmética Visual,D,2023,3,No Answer,A,No Answer,A,D,E,E,D,B,B,B,False,True,True,True,True
+castellano,A) 19 B) 21 C) 23 D) 24 E) Ninguno de los valores anteriores,Álgebra y Aritmética Visual,E,2023,4,No Answer,E,No Answer,A,E,B,C,E,B,D,D,False,True,True,True,False
+castellano,A) 16° B) 18° C) 19° D) 20° E) 22°,Álgebra y Aritmética Visual,B,2023,4,B,B,B,A,D,D,B,B,E,B,B,False,True,True,True,True
+castellano,A) 100° B) 90° C) 85° D) 80° E) 75°,Álgebra y Aritmética Visual,B,2023,4,B,B,E,No Answer,A,C,E,A,B,D,D,False,False,False,True,False
+castellano,A) 20 cm² B) 50 cm² C) 10 cm² D) 30 cm² E) 25 cm²,Geometría y Figuras,C,2023,4,A,C,D,A,D,No Answer,A,No Answer,B,B,A,True,True,False,True,True
+castellano,A) 2 B) 3 C) 4 D) 6 E) 12,Lógica y Razonamiento Visual,D,2023,4,C,D,A,No Answer,D,D,D,No Answer,B,D,D,False,False,True,True,True
+castellano,A) 8 B) 9 C) 10 D) 11 E) 12,Lógica y Razonamiento Visual,C,2023,4,A,C,B,No Answer,E,E,C,D,A,D,D,False,False,True,True,False
+castellano,A) B) C) D) E),Patrones y Secuencias,D,2023,5,C,C,A,C,No Answer,B,A,C,B,A,A,True,True,True,True,True
+castellano,A) 25 % B) 30 % C) 40 % D) 42 % E) 45 %,Geometría y Figuras,D,2023,5,D,No Answer,D,B,B,D,C,B,D,D,C,False,False,True,True,False
+castellano,A) 1/4 B) 3/8 C) 7/16 D) 1/2 E) 5/8,Álgebra y Aritmética Visual,C,2023,5,E,E,A,E,E,E,E,E,C,C,C,False,False,True,True,False
+castellano,A) 2 B) 3/2 C) 4/3 D) 5/3 E) 5/2,Álgebra y Aritmética Visual,D,2023,5,D,D,A,E,D,E,D,A,D,D,D,False,True,True,True,True
+castellano,A) 0 B) 333 C) 336 D) 337 E) 674,Álgebra y Aritmética Visual,D,2023,5,D,D,A,No Answer,D,D,D,D,D,D,D,False,False,False,False,False
+castellano,A) 16 B) 20 C) 12 D) 9 E) 8,Geometría y Figuras,B,2023,5,No Answer,C,E,E,No Answer,B,C,C,E,B,B,False,True,True,True,True
+castellano,A) B) C) D) E),Lógica y Razonamiento Visual,C,2023,5,D,E,No Answer,D,A,B,C,C,C,A,A,True,False,False,False,False
+castellano,A) 22 km B) 26 km C) 28 km D) 32 Km E) Ninguno de los anteriores ,Combinatoria y Probabilidad,B,2023,5,E,No Answer,No Answer,No Answer,E,D,D,C,E,C,E,False,False,True,False,False
+castellano,A) 14 B) 28 C) 56 D) 84 E) Un número de veces distinto de los anteriores,Álgebra y Aritmética Visual,D,2023,5,D,No Answer,No Answer,No Answer,C,C,C,D,D,E,E,False,False,False,False,False
+castellano,A) 64 B) 66 C) 68 D) 70 E) 72,Patrones y Secuencias,D,2023,6,D,No Answer,No Answer,A,E,A,B,D,D,D,D,False,True,True,True,True
+castellano,A) 24 B) 28 C) 31 D) 35 E) 42,Lógica y Razonamiento Visual,B,2023,6,B,B,No Answer,A,C,B,B,B,B,B,B,False,True,False,True,False
+castellano,A) 9 B) 10 C) 11 D) 12 E) 13,Álgebra y Aritmética Visual,C,2023,6,C,D,A,No Answer,A,No Answer,A,B,C,C,C,False,True,True,True,False
+castellano,A) [Opción A] B) [Opción B] C) [Opción C] D) [Opción D] E) [Opción E],Lógica y Razonamiento Visual,D,2023,6,D,D,No Answer,No Answer,No Answer,C,C,C,C,A,A,True,True,True,True,True
+castellano,A) 15 B) 31/2 C) 16 D) 17 E) Ninguno de los anteriores,Geometría y Figuras,C,2023,6,No Answer,C,A,A,E,No Answer,E,E,C,C,C,False,False,True,True,False
+castellano,A) A B) B C) C D) D E) E,Lógica y Razonamiento Visual,E,2023,6,No Answer,D,A,No Answer,A,D,C,B,B,B,B,False,True,True,True,False
+castellano,A) x-1 B) (x-1)^2 C) (x-1)^3 D) (x-1)^4 E) (x-1)^5,Patrones y Secuencias,D,2023,6,D,E,A,D,D,E,D,C,A,D,C,False,False,True,True,False
+castellano,A) 5 B) 4 C) 7 D) 3 E) 9,Combinatoria y Probabilidad,E,2023,6,E,C,No Answer,C,D,C,A,E,A,C,C,False,False,True,False,False
+castellano,0,Geometría y Figuras,E,2020,1,B,B,No Answer,A,E,C,D,C,A,B,B,False,True,True,True,True
+castellano,A) 3 B) 4 C) 6 D) 7 E) 8,Álgebra y Aritmética Visual,A,2020,1,No Answer,B,No Answer,A,D,E,C,C,C,E,E,False,True,True,True,True
+castellano,0,Lógica y Razonamiento Visual,B,2020,1,No Answer,B,No Answer,No Answer,E,D,C,C,A,E,E,True,True,True,True,True
+castellano,0,Geometría y Figuras,A,2020,3,A,A,No Answer,E,A,A,A,A,A,E,A,False,False,False,False,False
+castellano,A) 1 km B) 3 km C) 4 km D) 5 km E) 9 km,Lógica y Razonamiento Visual,A,2020,3,B,B,A,No Answer,E,C,B,D,A,C,C,False,False,True,False,False
+castellano,A) 22 B) 23 C) 24 D) 25 E) 26,Geometría y Figuras,C,2020,3,E,D,A,A,A,D,C,No Answer,C,C,C,False,False,True,True,True
+castellano,A) 15°  B) 30°  C) 45°  D) 60°  E) 75°,Geometría y Figuras,B,2020,4,B,B,A,No Answer,B,B,E,B,B,B,B,False,False,False,False,False
+castellano,A) 3 B) 5 C) 8 D) 10 E) 12,Álgebra y Aritmética Visual,A,2020,5,A,A,A,No Answer,No Answer,C,B,A,No Answer,D,D,False,True,True,True,False
+castellano,"A) 12 B) 13,5 C) 14 D) 15 E) 16",Combinatoria y Probabilidad,D,2020,5,B,B,No Answer,No Answer,B,D,B,B,B,B,B,False,True,False,False,False
+castellano,A) 60° B) 72° C) 75° D) 80° E) otra respuesta,Álgebra y Aritmética Visual,B,2020,5,E,E,A,No Answer,C,No Answer,B,E,B,B,A,False,True,False,False,False
+castellano,A) [Opción A]  B) [Opción B]  C) [Opción C]  D) [Opción D]  E) [Opción E],Lógica y Razonamiento Visual,C,2020,6,E,No Answer,A,A,No Answer,D,B,B,A,B,B,True,True,True,False,True
+castellano,A) [diagrama]  B) [diagrama]  C) [diagrama]  D) [diagrama]  E) [diagrama],Geometría y Figuras,B,2019,1,C,No Answer,A,No Answer,C,E,C,D,A,A,A,True,True,True,True,True
+castellano,A) 5  B) 6  C) 7  D) 8  E) 9,Geometría y Figuras,D,2019,1,A,B,No Answer,A,C,B,B,C,E,A,A,True,False,False,False,False
+castellano,A) AMN  B) BMN  C) CMN  D) DMN  E) Los cuatro tienen la misma área,Geometría y Figuras,E,2019,2,C,No Answer,C,A,E,B,C,E,E,E,E,True,True,True,True,True
+castellano,A) [diagrama]  B) [diagrama]  C) [diagrama]  D) [diagrama]  E) [diagrama],Lógica y Razonamiento Visual,E,2019,3,B,B,B,No Answer,E,C,A,C,E,A,E,False,False,False,False,False
+castellano,A) 12  B) 14  C) 16  D) 18  E) 20,Lógica y Razonamiento Visual,C,2019,3,A,A,No Answer,E,B,A,B,B,B,C,C,False,False,True,False,False
+castellano,A) (4/5) cm^2 B) (π/4) cm^2 C) 1 cm^2 D) (4/3) cm^2 E) (2/3) cm^2,Geometría y Figuras,A,2019,5,A,A,A,B,B,C,E,C,D,C,A,False,False,False,False,False
+castellano,A) 1 : 2  B) 2 : 3  C) 2 : 5  D) 3 : 7  E) 4 : 9,Geometría y Figuras,A,2019,6,A,A,A,No Answer,B,C,B,B,D,B,B,False,True,False,False,False
+castellano,A) lunes  B) miércoles  C) jueves  D) sábado  E) domingo,Patrones y Secuencias,D,2018,1,D,D,A,A,D,B,D,B,D,B,B,False,False,False,False,False
+castellano,A) 8  B) 10  C) 12  D) 14  E) 16,Geometría y Figuras,C,2018,1,C,D,No Answer,A,A,E,B,C,B,C,C,False,False,True,False,False
+castellano,A) A  B) B  C) C  D) D  E) en todos es igual,Geometría y Figuras,E,2018,1,E,C,No Answer,D,A,D,C,B,D,E,D,True,True,True,True,True
+castellano,A) 150 cm  B) 168 cm  C) 196 cm  D) 200 cm  E) 232 cm,Geometría y Figuras,D,2018,1,B,No Answer,C,A,E,No Answer,C,No Answer,B,E,E,False,True,True,True,True
+castellano,A) 1004 B) 1345 C) 2018 D) 1344 E) 1005,Patrones y Secuencias,B,2018,2,No Answer,No Answer,C,A,C,No Answer,E,E,D,C,C,False,False,True,True,False
+castellano,"A) 0,5 cm  B) 1 cm  C) 1,5 cm  D) 2 cm  E) 2,5 cm",Geometría y Figuras,D,2018,3,D,D,No Answer,A,B,C,D,D,D,D,D,False,False,True,True,False
+castellano,A) 30º  B) 35º  C) 36º  D) 40º  E) 44º,Geometría y Figuras,C,2018,3,C,C,A,No Answer,E,D,C,C,C,C,C,False,False,True,True,False
+castellano,A) 2018  B) −20  C) 18  D) 38  E) −38,Álgebra y Aritmética Visual,D,2018,5,No Answer,D,No Answer,C,D,D,D,B,C,D,D,False,False,True,True,False
+castellano,A) 1/3  B) 1/4  C) 1/5  D) 1/6  E) 1/8,Geometría y Figuras,D,2018,6,D,D,A,C,A,D,A,D,D,D,D,False,False,False,True,False
+castellano,A) 12  B) 13  C) 15  D) 17  E) 18,Combinatoria y Probabilidad,B,2018,6,B,No Answer,A,E,B,E,D,B,B,A,A,False,False,False,False,False
+castellano,A) 2  B) 3  C) 4  D) 6  E) la situación es imposible,Geometría y Figuras,A,2018,6,D,D,A,A,D,D,D,B,C,B,B,False,True,True,False,False
+castellano,A) 3x3x4  B) 3x5x5  C) 3x4x5  D) 4x4x4  E) 4x4x5,Geometría y Figuras,C,2017,1,C,No Answer,No Answer,A,E,E,C,A,C,C,C,False,False,True,False,True
+castellano,A) 32 cm²  B) 51 cm²  C) 27 cm²  D) 16 cm²  E) 6 cm²,Lógica y Razonamiento Visual,B,2017,1,B,No Answer,C,No Answer,No Answer,B,B,B,A,B,B,False,True,False,False,False
+castellano,A) [diagrama]  B) [diagrama]  C) [diagrama]  D) [diagrama]  E) [diagrama],Combinatoria y Probabilidad,A,2017,1,D,A,No Answer,A,D,D,C,D,A,A,A,True,False,True,True,False
+castellano,A) 3  B) 4  C) 5  D) 6  E) 8,Lógica y Razonamiento Visual,D,2017,1,C,C,A,No Answer,No Answer,No Answer,D,A,E,D,D,False,True,True,True,False
+castellano,"A) 3 triángulos, 1 cuadrado  B) 1 triángulo, 3 cuadrados  C) 1 triángulo, 1 cuadrado  D) 3 triángulos, 3 cuadrados  E) 3 triángulos, 2 cuadrados",Combinatoria y Probabilidad,C,2017,1,C,C,No Answer,No Answer,C,D,A,A,D,C,C,False,False,False,False,False
+castellano,A) 16%  B) 24%  C) 25%  D) 32%  E) 36%,Geometría y Figuras,D,2017,3,E,D,A,A,D,No Answer,B,C,C,B,B,False,False,False,False,False
+castellano,A) 9  B) 10  C) 11  D) 12  E) 13,Geometría y Figuras,B,2017,5,B,E,No Answer,E,E,E,E,B,A,B,A,False,True,True,True,True
+castellano,A) 5  B) 4  C) 1  D) 0  E) Imposible realizarlo,Álgebra y Aritmética Visual,D,2017,5,D,D,C,No Answer,A,E,B,E,D,B,B,False,True,True,False,False
+castellano,A) 1 B) 2 C) 3 D) 4 E) 5,Lógica y Razonamiento Visual,C,2017,6,C,C,No Answer,No Answer,D,D,C,B,C,C,C,True,True,True,True,True
+castellano,A) p·q B) p + q C) p/q D) p E) q,Geometría y Figuras,A,2017,6,A,A,No Answer,A,D,D,A,A,A,D,D,False,False,False,True,False
+castellano,A) 1  B) 2  C) 3  D) 5  E) 6,Combinatoria y Probabilidad,B,2016,1,B,B,A,E,B,A,B,C,B,B,B,False,True,True,True,False
+castellano,A) [diagrama casa]  B) [diagrama estrella]  C) [diagrama rectángulo]  D) [diagrama forma L]  E) [diagrama rombo],Combinatoria y Probabilidad,A,2016,1,B,B,B,B,A,A,A,B,C,A,A,False,False,False,False,False
+castellano,A) A  B) B  C) C  D) D  E) E,Patrones y Secuencias,C,2016,1,A,C,A,No Answer,No Answer,D,C,D,A,C,B,False,True,True,True,False
+castellano,A) [diagrama prohibido]  B) [diagrama rombo]  C) [diagrama triángulo]  D) [diagrama circular]  E) [diagrama T],Álgebra y Aritmética Visual,A,2016,3,A,No Answer,No Answer,D,No Answer,C,A,A,A,A,A,True,False,False,False,False
+castellano,A) 4  B) 6  C) 8  D) 9  E) 10,Geometría y Figuras,D,2016,3,No Answer,D,No Answer,D,D,No Answer,B,D,D,D,D,False,True,True,True,True
+castellano,A) 2  B) 4  C) 5  D) 10  E) 25,Álgebra y Aritmética Visual,B,2016,5,C,No Answer,C,D,E,B,C,D,C,C,C,False,,True,True,True
+castellano,"A) 0,75 m  B) 1,0 m  C) 1,25 m  D) 1,5 m  E) 1,75 m",Geometría y Figuras,C,2016,5,C,C,A,No Answer,D,E,C,C,E,C,C,False,False,True,True,True
+castellano,"A) 66º B) 70.5º C) 72º D) 75º E) 77,5º",Geometría y Figuras,C,2016,6,No Answer,A,B,A,B,E,D,C,C,C,C,False,True,True,True,True
+castellano,A) 5 cm B) 10 cm C) 15 cm D) 20 cm E) 25 cm,Geometría y Figuras,A,2015,1,A,A,A,No Answer,A,D,A,A,A,A,A,False,False,False,False,False
+castellano,A) 12 B) 14 C) 16 D) 18 E) 20,Geometría y Figuras,D,2015,1,D,E,A,No Answer,E,C,A,D,E,B,C,False,True,True,False,False
+castellano,A) 2 B) 3 C) 4 D) 5 E) 6,Álgebra y Aritmética Visual,B,2015,1,A,A,D,No Answer,B,A,A,A,C,B,B,False,True,True,True,False
+castellano,A) 10 B) 12 C) 16 D) 18 E) 19,Álgebra y Aritmética Visual,E,2015,2,E,C,No Answer,A,D,A,D,A,D,D,D,,,,,
+castellano,A) −5  B) −16  C) −8  D) −3  E) No puede hacerlo,Patrones y Secuencias,E,2015,6,E,C,No Answer,E,No Answer,A,C,E,D,D,B,False,False,False,True,False
+castellano,"A) Solo 5  B) Solo 2  C) Cualquiera de los números 2, 5  D) Cualquiera de los números 1,2,3, 5  E) Cualquiera de los números 2, 3, 5",Álgebra y Aritmética Visual,A,2015,6,C,A,A,A,E,A,B,B,E,A,A,True,True,True,True,True
+castellano,A) 4 B) 5 C) 6 D) 7 E) 8,Álgebra y Aritmética Visual,C,2014,1,C,C,A,No Answer,D,E,B,A,D,B,B,False,True,True,False,False
+castellano,A) B) C) D) E) Es imposible,Álgebra y Aritmética Visual,E,2014,1,C,D,No Answer,B,C,C,A,B,C,C,C,False,False,True,True,False
+castellano,A) 12 B) 14 C) 16 D) 18 E) 20,Geometría y Figuras,E,2014,3,E,E,A,C,E,E,E,E,E,E,E,False,False,False,False,True
+castellano,A) 30° B) 45° C) 60° D) 75° E) 90°,Geometría y Figuras,C,2014,3,No Answer,A,No Answer,C,D,No Answer,C,B,A,B,B,False,False,False,False,False
+castellano,A) 60 B) 45 C) 40 D) 35 E) 30,Combinatoria y Probabilidad,B,2014,3,D,No Answer,A,No Answer,No Answer,E,E,E,C,A,A,False,False,False,False,False
+castellano,A) 4 B) 5 C) 6 D) 7 E) 8,Patrones y Secuencias,B,2014,3,C,A,E,A,D,E,A,B,C,B,B,False,True,True,True,False
+castellano,A) a < b < c B) a < c < b C) b < a < c D) b < c < a E) c < b < a,Geometría y Figuras,E,2014,5,E,B,A,No Answer,A,A,C,A,B,A,A,False,False,False,False,False
+castellano,A) 16 cm2 B) 14 cm2 C) 12 cm2 D) 10 cm2 E) 8 cm2,Geometría y Figuras,A,2014,5,A,A,A,A,A,E,A,A,A,E,E,False,True,True,True,True
+castellano,A) 4 B) 5 C) 6 D) 9 E) 10,Geometría y Figuras,D,2014,5,B,C,D,D,A,D,A,D,E,C,C,False,False,True,False,False
+castellano,A) 5 B) 7 C) 8 D) 9 E) 10,Combinatoria y Probabilidad,D,2014,5,D,E,No Answer,C,D,No Answer,B,D,C,D,C,False,False,True,True,False
+frances,A) A B) B C) C D) D E) E,Geometría y Figuras,D,2023,1,A,A,No Answer,A,A,B,D,A,A,A,A,True,True,True,False,True
+frances,A) 2 B) 3 C) 4 D) 5 E) 6,Patrones y Secuencias,B,2023,1,B,B,No Answer,A,B,E,A,A,B,B,D,False,True,True,True,True
+frances,A) A B) B C) C D) D E) E,Lógica y Razonamiento Visual,A,2023,1,A,B,No Answer,A,E,E,B,B,C,A,A,True,True,True,True,True
+frances,A) A B) B C) C D) D E) E,Combinatoria y Probabilidad,D,2023,1,C,C,A,C,C,B,A,A,A,C,C,False,False,True,True,True
+frances,A) Anna B) Béa C) Clara D) Doria E) Emma,Patrones y Secuencias,E,2023,1,B,No Answer,A,C,B,D,E,C,E,A,A,True,True,False,True,False
+frances,A) 4 B) 5 C) 9 D) 12 E) 20,Combinatoria y Probabilidad,B,2023,2,B,B,B,No Answer,E,B,B,B,B,D,D,False,False,False,True,False
+frances,A) 4 cm B) 5 cm C) 6 cm D) 7 cm E) 8 cm,Geometría y Figuras,C,2023,2,No Answer,C,No Answer,C,E,E,A,No Answer,C,C,C,True,True,True,True,True
+frances,A) 20 B) 24 C) 30 D) 36 E) 40,Álgebra y Aritmética Visual,C,2023,2,C,E,A,C,C,E,C,C,B,E,E,False,False,False,False,False
+frances,A) 5 B) 6 C) 8 D) 9 E) 12,Combinatoria y Probabilidad,B,2023,2,E,E,No Answer,A,D,E,B,No Answer,E,E,E,False,True,True,True,True
+frances,A) [Figura A] B) [Figura B] C) [Figura C] D) [Figura D] E) [Figura E],Lógica y Razonamiento Visual,D,2023,2,E,E,No Answer,B,No Answer,E,C,B,A,D,D,False,False,False,True,False
+frances,A) TRRR B) TRRT C) TRTR D) RRRT E) RTRR,Patrones y Secuencias,E,2023,2,No Answer,D,E,B,B,E,A,D,D,B,B,False,True,False,False,False
+frances,A) noir B) bleu C) vert D) rouge E) jaune,Combinatoria y Probabilidad,A,2023,2,B,E,D,A,E,B,A,B,C,E,E,True,True,True,True,True
+frances,A) [Opción A] B) [Opción B] C) [Opción C] D) [Opción D] E) [Opción E],Combinatoria y Probabilidad,E,2023,3,E,D,No Answer,C,E,No Answer,E,C,B,E,E,True,True,True,True,True
+frances,A) 1 et 2 B) 1 et 3 C) 1 et 4 D) 2 et 3 E) 2 et 4,Álgebra y Aritmética Visual,B,2023,3,D,C,A,A,D,E,A,E,D,D,D,False,False,False,True,True
+frances,A) 11 B) 12 C) 13 D) 14 E) 15,Patrones y Secuencias,B,2023,3,B,B,No Answer,E,D,No Answer,B,B,E,B,D,False,True,True,True,True
+frances,A) [Forma A] B) [Forma B] C) [Forma C] D) [Forma D] E) [Forma E],Lógica y Razonamiento Visual,D,2023,3,E,A,A,C,D,No Answer,D,C,E,A,A,False,False,False,False,False
+frances,A) 106° B) 108° C) 110° D) 112° E) 120°,Patrones y Secuencias,B,2023,3,E,B,A,E,E,E,D,B,E,E,E,False,True,True,True,True
+frances,A) 37 B) 38 C) 39 D) 40 E) 41,Lógica y Razonamiento Visual,D,2023,3,No Answer,No Answer,A,E,A,D,A,E,C,B,A,False,True,True,True,True
+frances,A) 5p/3 B) 4p/3 C) 3p/2 D) 2p E) 5p/2,Geometría y Figuras,A,2023,4,A,E,A,A,A,A,E,C,C,A,A,True,True,False,True,True
+frances,A) 333 B) 334 C) 336 D) 337 E) 674,Combinatoria y Probabilidad,D,2023,4,D,D,E,No Answer,E,E,D,D,E,D,D,False,True,True,True,False
+frances,A) [Patrón A] B) [Patrón B] C) [Patrón C] D) [Patrón D] E) [Patrón E],Álgebra y Aritmética Visual,C,2023,4,C,E,No Answer,E,A,C,A,E,E,A,A,True,True,False,False,False
+frances,A) 64 B) 66 C) 68 D) 70 E) 72,Lógica y Razonamiento Visual,D,2023,5,B,D,A,No Answer,E,B,E,A,A,E,D,True,True,True,True,True
+frances,A) A B) B C) C D) D E) E,Geometría y Figuras,E,2023,5,D,D,A,No Answer,D,D,C,A,A,A,A,True,True,True,True,True
+frances,A) [Flecha A] B) [Flecha B] C) [Flecha C] D) [Flecha D] E) [Flecha E],Geometría y Figuras,D,2022,1,D,C,No Answer,C,C,No Answer,C,D,B,E,E,False,False,False,False,True
+frances,A) [Pieza A] B) [Pieza B] C) [Pieza C] D) [Pieza D] E) [Pieza E],Lógica y Razonamiento Visual,D,2022,1,C,D,No Answer,E,A,E,D,D,A,E,E,False,False,False,False,False
+frances,A) 12 B) 14 C) 16 D) 18 E) 20,Patrones y Secuencias,C,2022,1,C,C,A,E,A,C,B,C,C,C,C,False,False,True,True,False
+frances,A) 32 B) 36 C) 40 D) 44 E) 48,Álgebra y Aritmética Visual,A,2022,1,No Answer,C,No Answer,E,E,A,C,E,E,E,E,False,True,True,True,True
+frances,A) 8 B) 11 C) 13 D) 16 E) 19,Combinatoria y Probabilidad,B,2022,1,B,B,A,B,E,E,B,C,D,D,D,False,False,False,True,False
+frances,A) 4 B) 69 C) 113 D) 51 E) 5,Lógica y Razonamiento Visual,E,2022,2,D,D,No Answer,D,E,D,D,D,E,B,C,False,False,False,False,False
+frances,A) [Opción A] B) [Opción B] C) [Opción C] D) [Opción D] E) [Opción E],Geometría y Figuras,C,2022,2,No Answer,A,No Answer,A,E,No Answer,A,B,E,A,A,True,True,True,True,True
+frances,A) 12 B) 14 C) 15 D) 17 E) 18,Combinatoria y Probabilidad,D,2022,2,D,D,B,C,D,No Answer,D,D,C,A,E,False,False,False,False,False
+frances,A) 4 ; 4 ; 7 B) 3 ; 6 ; 6 C) 4 ; 5 ; 6 D) 3 ; 5 ; 7 E) 3 ; 4 ; 8,Patrones y Secuencias,A,2022,3,C,No Answer,A,B,A,E,D,D,A,A,A,False,False,False,False,False
+frances,A) 11 B) 12 C) 15 D) 17 E) 19,Lógica y Razonamiento Visual,D,2022,3,C,E,A,No Answer,E,No Answer,E,E,E,C,C,False,False,True,True,True
+frances,A) 20 % B) 25 % C) 30 % D) 35 % E) 50 %,Álgebra y Aritmética Visual,B,2022,3,B,No Answer,A,E,E,E,A,C,E,D,D,False,True,True,True,False
+frances,A) 0 B) 1 C) 2 D) 3 E) 4,Geometría y Figuras,B,2022,4,B,D,A,A,E,B,E,C,C,E,E,False,True,True,True,True
+frances,A) π B) 2π C) 3π D) 4π E) 6π,Geometría y Figuras,B,2022,4,B,B,No Answer,A,C,D,E,D,C,E,E,False,True,True,True,True
+frances,A) w ≤ π B) w = π C) π ≤ w ≤ 3π/2 D) 3π/2 ≤ w ≤ 2π E) w = 2π,Combinatoria y Probabilidad,E,2022,5,E,B,A,A,C,E,E,C,C,D,C,False,False,True,True,False
+frances,"A) 0,006 m3 B) 0,034 m3 C) 0,086 m3 D) 0,137 m3 E) 0,425 m3",Lógica y Razonamiento Visual,D,2022,5,C,A,C,A,D,No Answer,D,A,B,C,C,False,False,True,True,False
+frances,A) 3 B) 4 C) 5 D) 6 E) 7,Lógica y Razonamiento Visual,B,2022,5,B,B,A,C,D,B,B,E,D,B,B,False,True,True,False,False
+frances,A) 22 B) 24 C) 27 D) 30 E) 36,Geometría y Figuras,D,2022,5,C,B,C,B,E,No Answer,B,B,B,B,B,False,False,False,False,False
+frances,A) [Opción A] B) [Opción B] C) [Opción C] D) [Opción D] E) [Opción E],Álgebra y Aritmética Visual,C,2022,5,A,B,No Answer,E,C,D,E,E,E,D,D,False,False,False,True,True
+frances,A) [Cubo A] B) [Cubo B] C) [Cubo C] D) [Cubo D] E) [Cubo E],Álgebra y Aritmética Visual,C,2021,1,D,No Answer,No Answer,A,No Answer,A,B,E,B,A,A,True,False,True,False,False
+frances,A) 2 B) 3 C) 4 D) 5 E) 6,Geometría y Figuras,C,2021,1,D,D,No Answer,C,D,B,B,A,C,C,C,False,True,True,True,False
+frances,A) 6 B) 15 C) 18 D) 24 E) 33,Lógica y Razonamiento Visual,B,2021,1,A,A,No Answer,C,D,A,C,A,A,A,A,True,True,True,True,False
+frances,A) [Imagen A] B) [Imagen B] C) [Imagen C] D) [Imagen D] E) [Imagen E],Geometría y Figuras,B,2021,1,D,D,No Answer,C,E,D,D,C,E,B,B,False,True,True,False,True
+frances,A) 1 et 3 B) 2 et 4 C) 3 et 4 D) 2 et 3 E) 1 et 2,Lógica y Razonamiento Visual,D,2021,1,B,A,A,C,C,E,E,B,A,A,A,True,True,True,True,True
+frances,A) [Serie A] B) [Serie B] C) [Serie C] D) [Serie D] E) [Serie E],Patrones y Secuencias,E,2021,1,C,E,B,E,D,C,E,E,A,A,A,False,False,False,False,False
+frances,A) 12 m B) 14 m C) 16 m D) 20 m E) 22 m,Álgebra y Aritmética Visual,D,2021,1,A,No Answer,E,No Answer,E,C,D,No Answer,C,A,A,False,False,False,False,False
+frances,A) 1 B) 2 C) 3 D) 4 E) 5,Lógica y Razonamiento Visual,D,2021,1,C,B,No Answer,C,B,C,B,C,C,B,C,False,True,True,True,False
+frances,A) A B) B C) C D) D E) E,Álgebra y Aritmética Visual,B,2021,1,B,B,No Answer,E,E,E,B,E,E,B,B,False,True,True,True,True
+frances,A) 4 B) 5 C) 6 D) 7 E) 8,Lógica y Razonamiento Visual,D,2021,1,C,No Answer,A,No Answer,E,No Answer,D,D,C,B,C,False,True,True,True,True
+frances,A) [Diagrama A] B) [Diagrama B] C) [Diagrama C] D) [Diagrama D] E) [Diagrama E],Combinatoria y Probabilidad,D,2021,2,A,B,C,A,E,D,C,A,D,E,E,False,False,False,False,False
+frances,A) A B) B C) C D) D E) E,Álgebra y Aritmética Visual,B,2021,2,B,B,No Answer,A,B,B,D,E,C,A,E,False,False,False,False,False
+frances,"A) seulement P ou Q B) seulement Q C) seulement R D) seulement P ou R E) n'importe lequel parmi P, Q, R",Lógica y Razonamiento Visual,E,2021,2,B,A,D,No Answer,E,B,B,B,B,D,D,True,True,True,True,False
+frances,A) – 100 B) – 8 C) – 1 D) 199 E) 208,Combinatoria y Probabilidad,A,2021,3,D,No Answer,No Answer,C,D,C,E,C,A,B,A,False,True,True,False,False
+frances,"A) 3 cm2 B) 3,5 cm2 C) 4 cm2 D) 5,5 cm2 E) 6 cm2",Geometría y Figuras,C,2021,3,C,C,D,E,C,C,C,No Answer,C,C,C,False,True,True,True,True
+frances,A) 13 B) 12 C) 11 D) 10 E) 72,Geometría y Figuras,B,2021,3,No Answer,No Answer,C,A,E,B,E,No Answer,E,E,E,False,True,True,True,True
+frances,A) 10 B) 9 C) 8 D) 7 E) 6,Lógica y Razonamiento Visual,E,2021,4,C,C,A,C,A,E,D,No Answer,E,E,E,False,True,True,True,True
+frances,A) 4041 B) 4042 C) 4043 D) 4044 E) 4045,Álgebra y Aritmética Visual,E,2021,4,B,B,C,E,E,B,C,B,A,A,E,True,True,True,True,True
+frances,A) [Gráfico A] B) [Gráfico B] C) [Gráfico C] D) [Gráfico D] E) [Gráfico E],Patrones y Secuencias,E,2021,5,E,D,A,A,E,D,C,B,C,A,A,True,True,False,False,False
+frances,A) y = bx + c B) y = cx + b C) y = ax + b D) y = ax + c E) y = cx + a,Geometría y Figuras,D,2021,5,D,C,No Answer,A,A,D,C,A,D,D,D,True,False,True,True,False
+frances,A) [Gráfico A] B) [Gráfico B] C) [Gráfico C] D) [Gráfico D] E) [Gráfico E],Lógica y Razonamiento Visual,E,2021,5,E,E,B,A,D,D,D,D,D,C,A,True,False,True,True,True
+frances,A) [photo A] B) [photo B] C) [photo C] D) [photo D] E) [photo E],Álgebra y Aritmética Visual,E,2020,1,E,B,A,D,D,D,E,E,C,D,D,True,False,True,True,False
+frances,A) [carreau A] B) [carreau B] C) [carreau C] D) [carreau D] E) [carreau E],Patrones y Secuencias,B,2020,1,A,C,No Answer,B,E,E,D,D,D,A,A,True,True,True,True,True
+frances,A) 1 kg B) 2 kg C) 3 kg D) 4 kg E) 5 kg,Álgebra y Aritmética Visual,D,2020,1,D,D,No Answer,A,C,B,D,B,A,B,C,False,True,True,False,False
+frances,A) [dessin A] B) [dessin B] C) [dessin C] D) [dessin D] E) [dessin E],Geometría y Figuras,C,2020,1,A,A,A,A,E,B,C,D,A,A,A,True,True,True,True,True
+frances,A) le 2 B) le 3 C) le 4 D) le 17 E) le 18,Combinatoria y Probabilidad,B,2020,1,E,B,E,D,D,D,E,C,D,D,D,False,False,False,True,True
+frances,A) 3 B) 4 C) 5 D) 6 E) 7,Geometría y Figuras,D,2020,1,D,D,No Answer,D,D,D,C,D,D,D,D,False,False,True,True,True
+frances,A) [Imagen A] B) [Imagen B] C) [Imagen C] D) [Imagen D] E) [Imagen E],Geometría y Figuras,D,2020,2,D,C,No Answer,C,D,D,E,C,D,D,D,False,False,False,True,False
+frances,A) [Cubo A] B) [Cubo B] C) [Cubo C] D) [Cubo D] E) [Cubo E],Combinatoria y Probabilidad,B,2020,2,A,B,E,C,E,C,C,C,C,E,E,False,False,False,False,False
+frances,A) [Camino A] B) [Camino B] C) [Camino C] D) [Camino D] E) [Camino E],Lógica y Razonamiento Visual,C,2020,2,C,E,No Answer,E,D,B,A,E,A,A,A,True,True,True,True,True
+frances,A) A B) B C) C D) D E) E,Geometría y Figuras,D,2020,2,B,D,C,B,C,B,B,B,C,D,D,False,False,False,True,True
+frances,A) 3 B) 4 C) 6 D) 7 E) 8,Geometría y Figuras,A,2020,2,C,E,No Answer,E,E,C,E,No Answer,C,E,E,False,True,True,True,True
+frances,A) 2 B) 3 C) 4 D) 5 E) 6,Lógica y Razonamiento Visual,B,2020,2,C,C,No Answer,E,D,D,D,C,E,C,C,True,True,True,True,True
+frances,A) 1 km B) 2 km C) 3 km D) 4 km E) 5 km,Geometría y Figuras,B,2020,4,D,B,A,E,E,C,C,C,E,E,E,True,True,True,True,True
+frances,"A) 3 dm B) 5 dm C) 5,5 dm D) 6 dm E) 7,5 dm",Álgebra y Aritmética Visual,D,2020,4,No Answer,No Answer,No Answer,C,C,B,B,C,D,D,D,True,True,True,True,True
+frances,"A) 12 cm2 B) 13,5 cm2 C) 14 cm2 D) 15 cm2 E) 16 cm2",Combinatoria y Probabilidad,D,2020,4,B,B,No Answer,B,B,B,B,B,B,B,B,False,True,False,True,False
+frances,A) 6 m B) 5 + √2 m C) 7 m D) 6 + √2 m E) cela dépend de l'angle choisi pour poser l'obstacle,Álgebra y Aritmética Visual,C,2020,5,C,C,No Answer,A,B,C,C,B,C,C,C,False,True,True,True,False
+frances,"A) 2,5 B) 3 C) 3,25 D) 3,5 E) 4",Combinatoria y Probabilidad,B,2020,5,B,E,C,C,E,No Answer,B,B,D,B,E,False,True,True,True,False
+frances,A) [morceau A] B) [morceau B] C) [morceau C] D) [morceau D] E) [morceau E],Lógica y Razonamiento Visual,B,2019,1,A,A,A,A,D,D,B,B,B,B,B,False,True,False,True,False
+frances,A) [forme A] B) [forme B] C) [forme C] D) [forme D] E) [forme E],Geometría y Figuras,D,2019,1,D,B,A,A,No Answer,E,D,E,D,A,A,False,False,False,False,False
+frances,A) 7 kg B) 8 kg C) 9 kg D) 10 kg E) 11 kg,Combinatoria y Probabilidad,E,2019,1,No Answer,E,B,C,D,E,D,E,D,D,D,False,True,True,True,True
+frances,A) [tressage A] B) [tressage B] C) [tressage C] D) [tressage D] E) [tressage E],Combinatoria y Probabilidad,C,2019,1,E,No Answer,C,No Answer,D,No Answer,D,D,E,A,A,True,True,True,True,True
+frances,A) 9 B) 16 C) 18 D) 27 E) 55,Lógica y Razonamiento Visual,C,2019,1,D,B,No Answer,D,B,A,C,B,C,A,A,False,False,False,False,False
+frances,A) [dessin A] B) [dessin B] C) [dessin C] D) [dessin D] E) [dessin E],Álgebra y Aritmética Visual,B,2019,2,A,D,No Answer,E,D,D,C,A,A,D,D,True,False,True,True,True
+frances,A) 5 B) 6 C) 7 D) 8 E) 9,Geometría y Figuras,D,2019,2,C,D,A,No Answer,D,No Answer,C,D,C,D,D,False,True,True,True,False
+frances,A) [carré A] B) [carré B] C) [carré C] D) [carré D] E) [carré E],Geometría y Figuras,B,2019,2,C,E,No Answer,D,E,E,E,A,E,E,E,True,True,True,True,True
+frances,A) 54 g B) 57 g C) 68 g D) 72 g E) 80 g,Lógica y Razonamiento Visual,C,2019,2,C,No Answer,B,E,E,C,D,C,D,B,A,False,True,True,True,True
+frances,A) 45° B) 50° C) 60° D) 65° E) 70°,Geometría y Figuras,C,2019,3,No Answer,E,A,B,E,A,B,C,B,E,E,False,True,True,True,True
+frances,A) [dessin A] B) [dessin B] C) [dessin C] D) [dessin D] E) [dessin E],Lógica y Razonamiento Visual,E,2019,3,D,E,No Answer,E,E,No Answer,D,E,B,A,A,False,False,False,False,False
+frances,A) 3 B) 4 C) 5 D) 6 E) 8,Álgebra y Aritmética Visual,C,2019,3,C,B,C,E,No Answer,B,B,B,E,B,B,True,True,True,True,True
+frances,A) [patron A] B) [patron B] C) [patron C] D) [patron D] E) [patron E],Geometría y Figuras,E,2019,3,A,D,C,E,B,C,B,B,D,E,E,False,False,False,False,True
+frances,A) A B) B C) C D) D E) E,Álgebra y Aritmética Visual,E,2019,4,E,A,A,E,B,D,C,E,B,A,A,True,True,True,True,True
+frances,A) √pq B) (1/2)p² C) (1/2)q² D) (1/4)(p²+q²) E) (1/2)(p²+q²),Lógica y Razonamiento Visual,B,2019,5,No Answer,E,No Answer,A,D,C,E,E,A,A,A,False,True,True,True,True
+frances,A) 18 B) 19 C) 20 D) 21 E) 22,Geometría y Figuras,C,2019,5,E,C,A,B,B,B,C,A,C,C,C,False,False,True,True,False
+frances,A) [motif A] B) [motif B] C) [motif C] D) [motif D] E) [motif E],Combinatoria y Probabilidad,C,2018,1,D,C,A,E,D,No Answer,C,E,B,,,,,,,
+frances,A) 5 B) 6 C) 7 D) 8 E) 9,Geometría y Figuras,B,2018,1,C,D,E,E,No Answer,B,C,C,B,E,B,False,True,True,True,True
+frances,A) 27 km B) 35 km C) 36 km D) 37 km E) 63 km,Álgebra y Aritmética Visual,D,2018,1,D,D,C,C,D,No Answer,D,D,C,D,D,True,True,True,True,True
+frances,A) [option A] B) [option B] C) [option C] D) [option D] E) [option E],Lógica y Razonamiento Visual,C,2018,2,D,A,No Answer,C,E,C,C,D,C,A,A,False,False,False,False,False
+frances,A) 0 B) 2 C) 3 D) 4 E) 5,Álgebra y Aritmética Visual,D,2018,2,D,C,B,C,B,D,D,C,E,D,D,False,True,True,True,True
+frances,A) 2 B) 3 C) 4 D) 5 E) 6,Geometría y Figuras,A,2018,2,A,B,No Answer,C,E,B,B,B,B,B,B,False,True,True,True,False
+frances,A) 0 B) 2 C) 4 D) 5 E) 6,Geometría y Figuras,A,2018,2,No Answer,D,A,D,D,E,D,B,D,B,D,False,True,True,True,False
+frances,A) 1 B) 2 C) 3 D) 4 E) 5,Álgebra y Aritmética Visual,D,2018,3,D,D,A,D,E,D,D,D,E,D,D,False,True,True,True,True
+frances,A) 6 B) 8 C) 9 D) 10 E) 12,Álgebra y Aritmética Visual,B,2018,4,C,C,No Answer,A,A,A,C,A,E,D,D,False,False,True,True,True
+frances,A) 4 B) 5 C) 6 D) 7 E) 8,Geometría y Figuras,C,2018,5,E,C,C,E,A,No Answer,A,A,C,C,C,True,True,True,False,False
+frances,A) STU B) \(\sqrt{STU}\) C) \(\sqrt{ST + TU + US}\) D) \(\sqrt[3]{STU}\) E) \(2(S + T + U)\),Álgebra y Aritmética Visual,B,2018,5,B,B,No Answer,E,No Answer,D,B,B,C,B,B,True,True,False,False,False
+frances,A) B) C) D) E),Lógica y Razonamiento Visual,D,2018,5,D,D,No Answer,C,D,C,C,C,B,B,B,False,True,True,False,True
+frances,A) 2 B) 3 C) 4 D) 6 E) la situation est impossible,Álgebra y Aritmética Visual,A,2018,5,E,C,No Answer,B,D,C,E,A,E,B,B,False,True,True,False,False
+frances,A) 6 B) 7 C) 8 D) 9 E) 16,Geometría y Figuras,B,2017,1,B,B,D,B,No Answer,B,B,B,B,B,B,True,True,True,True,True
+frances,A) 10 B) 11 C) 12 D) 13 E) 14,Combinatoria y Probabilidad,D,2017,1,No Answer,No Answer,No Answer,A,E,C,B,A,E,A,C,True,True,True,True,True
+frances,A) 2170 B) 0127 C) 7021 D) 1027 E) 7210,Álgebra y Aritmética Visual,D,2017,2,No Answer,A,No Answer,D,A,D,A,A,E,A,D,True,False,False,True,False
+frances,A) 1 B) 2 C) 3 D) 4 E) 5,Álgebra y Aritmética Visual,B,2017,2,A,B,C,E,D,C,C,C,B,B,B,False,True,True,True,False
+frances,A) 60 cm B) 80 cm C) 90 cm D) 100 cm E) 120 cm,Álgebra y Aritmética Visual,D,2017,2,D,A,No Answer,A,D,A,D,E,D,B,A,False,True,False,False,False
+frances,A) 3 × 3 × 4 B) 3 × 4 × 5 C) 3 × 5 × 5 D) 4 × 4 × 4 E) 4 × 4 × 5,Geometría y Figuras,B,2017,2,No Answer,No Answer,A,A,C,B,B,B,C,B,B,False,True,True,False,True
+frances,A) [dessin A] B) [dessin B] C) [dessin C] D) [dessin D] E) [dessin E],Lógica y Razonamiento Visual,E,2017,2,D,No Answer,A,C,E,B,E,C,E,E,E,False,True,True,True,True
+frances,A) 4 B) 5 C) 6 D) 7 E) 8,Patrones y Secuencias,D,2017,2,D,E,A,E,D,E,D,A,A,B,B,False,True,True,False,False
+frances,A) 12 B) 18 C) 24 D) 36 E) 48,Combinatoria y Probabilidad,E,2017,2,E,E,A,A,C,C,E,C,D,E,E,False,False,True,True,True
+frances,A) 9 cm² B) 10 cm² C) 11 cm² D) 12 cm² E) 13 cm²,Lógica y Razonamiento Visual,B,2017,3,B,B,No Answer,C,C,No Answer,D,A,E,E,C,False,True,True,False,True
+frances,A) 18 B) 20 C) 21 D) 22 E) 23,Combinatoria y Probabilidad,D,2017,3,C,E,A,C,D,No Answer,C,C,B,B,B,False,True,True,True,True
+frances,A) B) C) D) E),Geometría y Figuras,E,2017,4,No Answer,B,D,No Answer,D,E,D,E,C,A,A,True,True,False,True,False
+frances,A) 5 B) 6 C) 7 D) 8 E) 9,Lógica y Razonamiento Visual,D,2017,5,D,D,No Answer,C,D,D,D,D,B,D,D,False,True,,True,
+frances,A) 40 de chaque B) 40 noirs et 41 blancs C) aucun D) 41 de chaque E) 40 blancs et 41 noirs,Patrones y Secuencias,E,2017,5,E,E,B,A,A,E,E,B,B,C,C,False,False,True,False,False
+frances,A) π/2 B) 2π/3 C) 2√3 – π D) π/2 + √3 E) 2π – 3√3,Álgebra y Aritmética Visual,E,2017,5,E,No Answer,No Answer,E,E,C,E,E,C,E,E,False,False,True,False,True
+frances,A) R B) P C) T D) N E) K,Álgebra y Aritmética Visual,D,2016,1,D,B,No Answer,D,D,D,B,D,B,B,B,,,,,
+frances,A) Il y a autant de cercles que de carrés. B) Il y a moins de cercles que de triangles. C) Il y a 2 triangles et 2 cercles. D) Il y a plus de carrés que de triangles. E) Il y a 2 fois plus de cercles que de triangles.,Lógica y Razonamiento Visual,E,2016,1,B,D,C,E,C,B,B,E,C,C,C,False,False,True,False,False
+frances,A) [pièce A] B) [pièce B] C) [pièce C] D) [pièce D] E) [pièce E],Geometría y Figuras,B,2016,1,D,E,A,D,E,E,C,E,A,A,A,True,True,True,True,True
+frances,A) 2 B) 4 C) 5 D) 6 E) 7,Patrones y Secuencias,B,2016,1,D,C,No Answer,C,C,A,C,E,B,B,B,False,True,True,True,True
+frances,A) A B) B C) C D) D E) E,Lógica y Razonamiento Visual,C,2016,1,A,C,No Answer,D,C,C,B,C,E,A,A,True,False,False,False,False
+frances,A) 0 B) 1 C) 2 D) 3 E) 4,Patrones y Secuencias,D,2016,1,C,C,B,C,B,C,C,D,A,D,D,False,True,True,True,False
+frances,A) [option A] B) [option B] C) [option C] D) [option D] E) [option E],Lógica y Razonamiento Visual,A,2016,1,B,D,No Answer,E,E,D,B,D,C,A,A,True,True,True,True,True
+frances,A) 1 B) 2 C) 3 D) 4 E) 5,Patrones y Secuencias,C,2016,2,E,E,B,C,C,E,C,D,B,C,C,True,True,True,True,False
+frances,A) A B) B C) C D) D E) E,Geometría y Figuras,C,2016,2,A,A,A,C,D,C,B,E,A,A,A,True,True,True,True,False
+frances,A) 50 cm B) 45 cm C) 40 cm D) 35 cm E) impossible à déterminer,Combinatoria y Probabilidad,C,2016,2,C,A,B,E,E,No Answer,A,A,D,E,E,False,False,False,False,False
+frances,A) B) C) D) E),Lógica y Razonamiento Visual,D,2016,2,A,D,A,B,A,B,B,E,B,A,A,True,True,True,True,True
+frances,A) 7 B) 8 C) 12 D) 16 E) 17,Geometría y Figuras,B,2016,2,E,D,A,A,D,C,B,A,C,E,E,False,False,True,True,True
+frances,A) 1 B) 2 C) 3 D) 4 E) 5,Lógica y Razonamiento Visual,B,2016,3,B,B,A,D,D,B,B,D,D,B,B,True,True,True,True,False
+frances,A) 50 cm² B) 80 cm² C) 100 cm² D) 120 cm² E) 150 cm²,Álgebra y Aritmética Visual,C,2016,3,C,C,E,No Answer,A,C,C,B,C,C,C,False,False,True,False,False
+frances,A) 2 B) 3 C) 4 D) 6 E) 8,Patrones y Secuencias,D,2016,3,D,C,A,C,D,C,A,A,A,C,C,False,True,True,True,True
+frances,A) [vue A] B) [vue B] C) [vue C] D) [vue D] E) [vue E],Geometría y Figuras,B,2016,3,E,D,A,E,E,E,E,C,A,A,A,False,False,False,False,False
+frances,A) 80 % B) 85 % C) 86 % D) 88 % E) 90 %,Geometría y Figuras,D,2016,4,D,D,No Answer,A,E,No Answer,B,D,E,B,B,False,False,True,False,False
+frances,A) 3 B) 4 C) 5 D) 6 E) 7,Combinatoria y Probabilidad,C,2016,4,A,A,No Answer,E,D,C,B,C,B,B,B,False,True,False,False,False
+frances,A) [figure A] B) [figure B] C) [figure C] D) [figure D] E) [figure E],Álgebra y Aritmética Visual,A,2016,5,A,No Answer,A,E,D,D,D,C,E,A,A,True,True,True,True,True
+frances,A) 1 B) 2 C) 3 D) 5 E) 8,Lógica y Razonamiento Visual,C,2016,5,C,C,A,E,E,No Answer,C,B,E,B,B,False,True,False,True,False
+frances,A) 0 B) 1 C) 2 D) 5 E) 6,Álgebra y Aritmética Visual,D,2015,1,D,D,No Answer,E,E,D,D,D,D,D,D,False,True,True,True,True
+frances,A) [option A] B) [option B] C) [option C] D) [option D] E) [option E],Geometría y Figuras,E,2015,1,A,A,No Answer,E,E,E,B,D,E,E,E,False,False,False,True,True
+frances,A) 2 B) 4 C) 6 D) 8 E) 9,Combinatoria y Probabilidad,C,2015,1,D,D,No Answer,A,D,B,D,D,E,D,D,False,False,,True,True
+frances,A) 5 B) 6 C) 7 D) 8 E) 9,Patrones y Secuencias,D,2015,1,No Answer,E,No Answer,A,B,No Answer,C,E,B,E,E,False,True,True,True,True
+frances,A) B) C) D) E),Lógica y Razonamiento Visual,B,2015,2,No Answer,D,No Answer,E,C,D,D,D,A,E,A,False,False,False,False,
+frances,A) 16 cm B) 18 cm C) 20 cm D) 24 cm E) 28 cm,Combinatoria y Probabilidad,B,2015,2,A,C,No Answer,No Answer,C,A,B,A,B,B,B,False,True,True,False,False
+frances,A) 4 cm B) 6 cm C) 8 cm D) 12 cm E) 14 cm,Patrones y Secuencias,A,2015,2,A,A,B,E,B,A,A,A,B,E,C,False,False,True,True,True
+frances,A) en bleu seulement B) en vert seulement C) en rouge seulement D) plusieurs couleurs sont possibles E) aucun coloriage ne permet de compléter la figure,Combinatoria y Probabilidad,B,2015,3,C,C,No Answer,A,No Answer,No Answer,C,C,C,D,D,False,True,True,True,False
+frances,A) 2√5 B) √10 + √2 C) 2 + 2√2 D) 4√2 E) 6,Patrones y Secuencias,C,2015,4,C,C,No Answer,D,B,E,C,C,E,C,C,False,False,True,True,False
+frances,A) 4 B) 5 C) 6 D) 7 E) 8,Lógica y Razonamiento Visual,B,2015,4,No Answer,C,E,C,C,A,C,No Answer,E,E,E,True,True,True,True,True
+frances,A) a B) b C) c D) d E) e,Patrones y Secuencias,D,2015,4,D,D,A,No Answer,D,D,D,C,C,D,D,False,False,True,True,True
+frances,A) B) C) D) E),Geometría y Figuras,D,2015,5,No Answer,D,No Answer,E,D,E,C,B,C,A,A,True,False,True,True,True
+frances,A) –3 B) –5 C) –8 D) –16 E) aucun car c'est impossible,Patrones y Secuencias,E,2015,5,No Answer,E,E,B,C,E,E,A,E,E,E,True,True,True,True,True
+frances,A) √6 B) 3 C) 3√3/2 D) 2√2 E) 6,Álgebra y Aritmética Visual,A,2015,5,A,A,No Answer,E,D,E,A,D,C,A,A,True,True,True,True,True
+frances,A) a B) b C) c D) d E) aucun des quatre,Lógica y Razonamiento Visual,B,2015,5,A,A,A,B,B,C,C,E,B,B,B,True,True,True,True,True
+frances,(A) 1 et 4 (B) 3 et 5 (C) 2 et 4 (D) 2 et 5 (E) 3 et 4,Patrones y Secuencias,A,2014,1,B,A,E,D,C,B,A,B,D,A,A,True,True,True,True,True
+frances,(A) 15 (B) 17 (C) 19 (D) 21 (E) 23,Patrones y Secuencias,D,2014,1,D,No Answer,No Answer,D,No Answer,D,D,D,E,D,D,False,True,True,True,True
+frances,(A) [carreau A] (B) [carreau B] (C) [carreau C] (D) [carreau D] (E) [carreau E],Combinatoria y Probabilidad,B,2014,1,B,No Answer,B,A,D,A,B,D,B,D,D,False,False,False,True,True
+frances,(A) 18 (B) 19 (C) 20 (D) 21 (E) 22,Patrones y Secuencias,D,2014,1,D,D,No Answer,C,E,D,C,No Answer,C,D,D,False,True,True,True,False
+frances,(A) [pieza gris] (B) [pieza negra] (C) [pieza diagonal] (D) [pieza diagonal] (E) il est impossible d'obtenir des aires grises et noires égales,Geometría y Figuras,E,2014,2,B,C,No Answer,E,C,C,C,C,C,B,B,False,True,True,True,True
+frances,(A) 12 (B) 14 (C) 16 (D) 18 (E) 20,Geometría y Figuras,E,2014,3,No Answer,No Answer,No Answer,A,B,B,C,C,B,B,C,False,True,True,False,False
+frances,(A) 7 (B) 8 (C) 9 (D) 10 (E) cela ne se produira jamais,Combinatoria y Probabilidad,E,2014,3,No Answer,A,No Answer,A,B,E,B,E,E,C,C,False,False,True,False,False
+frances,(A) 30° (B) 45° (C) 60° (D) 75° (E) 90°,Lógica y Razonamiento Visual,C,2014,3,D,No Answer,No Answer,C,C,No Answer,C,A,C,C,C,False,False,True,True,False
+frances,(A) 94° (B) 90° (C) 88° (D) 84° (E) 82°,Combinatoria y Probabilidad,D,2014,4,No Answer,E,A,E,D,A,D,No Answer,D,D,D,False,False,True,True,True
+frances,(A) 4 (B) 5 (C) 6 (D) 9 (E) 10,Geometría y Figuras,D,2014,4,A,B,A,C,C,C,C,D,E,E,E,False,True,True,True,True
+frances,(A) 2 (B) 3 (C) π (D) 4 (E) 8,Combinatoria y Probabilidad,D,2014,5,A,A,C,E,C,A,A,A,A,A,A,True,True,False,True,True
+frances,(A) [dibujo A] (B) [dibujo B] (C) [dibujo C] (D) [dibujo D] (E) [dibujo E],Combinatoria y Probabilidad,E,2014,5,A,E,No Answer,E,E,E,B,A,A,A,A,False,False,False,False,False
+ingles,(A) First pattern (B) Second pattern (C) Third pattern (D) Fourth pattern (E) Fifth pattern,Lógica y Razonamiento Visual,D,2018,6,C,No Answer,C,A,C,No Answer,E,C,A,A,A,True,True,True,True,True
+ingles,(A) First path (B) Second path (C) Third path (D) Fourth path (E) Fifth path,Combinatoria y Probabilidad,E,2018,6,D,A,A,C,A,D,B,A,A,A,A,True,True,True,True,False
+ingles,(A) A (B) B (C) C (D) D (E) C or D,Geometría y Figuras,A,2018,6,E,A,B,D,E,A,D,D,E,A,A,True,False,False,False,False
+ingles,(A) First picture (B) Second picture (C) Third picture (D) Fourth picture (E) Fifth picture,Combinatoria y Probabilidad,B,2018,6,C,C,E,C,C,A,C,C,D,A,A,True,True,True,True,True
+ingles,(A) 2 (B) 3 (C) 4 (D) 5 (E) 6,Combinatoria y Probabilidad,E,2018,6,C,No Answer,No Answer,D,E,E,E,A,E,E,E,False,False,False,False,True
+ingles,(A) 20 cm (B) 21 cm (C) 22 cm (D) 23 cm (E) 25 cm,Lógica y Razonamiento Visual,B,2018,6,D,A,No Answer,E,E,No Answer,E,A,A,E,E,False,False,False,False,False
+ingles,(A) 2 (B) 3 (C) 4 (D) 5 (E) 6,Geometría y Figuras,E,2018,1,D,B,No Answer,D,A,D,B,E,B,B,B,False,True,False,False,False
+ingles,(A) 1 (B) 2 (C) 3 (D) 4 (E) 5,Geometría y Figuras,E,2018,1,A,E,No Answer,E,E,A,B,C,C,E,E,False,False,False,False,False
+ingles,(A) 5 (B) 6 (C) 7 (D) 9 (E) 10,Álgebra y Aritmética Visual,B,2018,1,B,D,C,C,C,D,B,B,E,E,A,False,False,False,False,True
+ingles,(A) First image (B) Second image (C) Third image (D) Fourth image (E) Fifth image,Patrones y Secuencias,D,2018,1,C,E,No Answer,E,No Answer,D,E,E,A,E,A,False,False,False,False,False
+ingles,(A) 1 (B) 2 (C) 3 (D) 4 (E) 5,Patrones y Secuencias,D,2018,1,D,E,A,E,E,No Answer,C,D,A,B,B,False,False,False,False,False
+ingles,(A) 5 (B) 6 (C) 7 (D) 8 (E) 9,Geometría y Figuras,B,2018,1,E,A,D,C,C,A,C,A,C,D,D,False,False,False,False,False
+ingles,(A) A (B) B (C) C (D) D (E) E,Patrones y Secuencias,D,2018,1,E,E,E,E,E,D,E,E,E,E,E,False,False,False,False,False
+ingles,(A) Eye symbol (B) Sun symbol (C) Atom symbol (D) Wavy lines symbol (E) Fish symbol,Lógica y Razonamiento Visual,A,2018,1,A,E,B,A,C,D,D,B,E,C,C,False,False,True,False,True
+ingles,(A) 4 cm (B) 8 cm (C) 10 cm (D) 16 cm (E) 20 cm,Combinatoria y Probabilidad,B,2018,1,B,B,No Answer,C,B,B,B,B,B,E,E,False,False,False,False,False
+ingles,(A) all 7 numbers (B) only odd numbers (C) only even numbers (D) the number 4 (E) the numbers 1 or 7,Lógica y Razonamiento Visual,E,2018,1,A,A,A,E,E,D,D,A,B,E,B,False,False,False,False,False
+ingles,(A) A (B) B (C) C (D) D (E) E,Geometría y Figuras,B,2018,2,A,C,C,B,C,B,C,E,A,D,B,False,False,False,False,False
+ingles,(A) 8 cm (B) 10 cm (C) 12 cm (D) 14 cm (E) 16 cm,Geometría y Figuras,C,2018,2,No Answer,D,No Answer,D,E,D,B,D,B,C,C,False,False,False,False,False
+ingles,(A) 8 (B) 9 (C) 12 (D) 13 (E) 15,Álgebra y Aritmética Visual,D,2018,2,No Answer,No Answer,C,E,A,A,D,No Answer,E,E,E,False,False,False,False,False
+ingles,(A) 2 (B) 3 (C) 4 (D) 5 (E) 6,Lógica y Razonamiento Visual,A,2018,2,B,A,E,A,B,C,B,B,C,B,B,False,False,False,False,False
+ingles,(A) A (B) B (C) C (D) D (E) The total area of the black parts is always equally big.,Geometría y Figuras,E,2018,2,E,E,D,D,D,E,E,E,C,E,E,False,False,False,False,False
+ingles,(A) 1 (B) 2 (C) 3 (D) 4 (E) 5,Álgebra y Aritmética Visual,E,2018,2,A,No Answer,D,No Answer,E,E,C,B,E,A,A,False,False,False,False,False
+ingles,(A) First position (B) Second position (C) Third position (D) Fourth position (E) Fifth position,Patrones y Secuencias,A,2018,2,C,E,A,A,E,No Answer,C,C,B,E,E,False,False,False,False,False
+ingles,(A) A (B) B (C) C (D) D (E) E,Lógica y Razonamiento Visual,C,2018,2,A,E,C,A,A,D,E,B,A,A,A,False,False,False,False,False
+ingles,(A) 150 cm (B) 168 cm (C) 196 cm (D) 200 cm (E) 232 cm,Geometría y Figuras,D,2018,2,C,B,No Answer,No Answer,No Answer,No Answer,E,No Answer,B,A,B,False,False,False,False,False
+ingles,(A) ADAM (B) BAUM (C) BOOT (D) LOGO (E) TOTO,Patrones y Secuencias,E,2018,3,E,E,A,A,E,A,E,E,E,E,E,False,False,False,False,True
+ingles,(A) 8 (B) 9 (C) 10 (D) 12 (E) 15,Álgebra y Aritmética Visual,D,2018,3,D,D,C,C,D,D,D,D,D,D,A,False,False,False,True,False
+ingles,(A) Picture A (B) Picture B (C) Picture C (D) Picture D (E) Picture E,Patrones y Secuencias,C,2018,3,D,A,A,A,A,E,B,D,C,E,E,False,False,False,False,False
+ingles,(A) 5 (B) 6 (C) 9 (D) 12 (E) 14,Álgebra y Aritmética Visual,B,2018,3,No Answer,No Answer,A,C,A,No Answer,D,No Answer,A,C,C,False,False,False,False,False
+ingles,(A) 17 (B) 16 (C) 15 (D) 14 (E) 13,Álgebra y Aritmética Visual,A,2018,3,A,A,A,C,D,D,A,A,D,B,B,False,True,True,True,False
+ingles,(A) 30° (B) 35° (C) 36° (D) 40° (E) 44°,Álgebra y Aritmética Visual,C,2018,3,No Answer,C,No Answer,B,C,C,D,C,C,C,C,False,False,True,False,False
+ingles,(A) 3 (B) 4 (C) 5 (D) 6 (E) 7,Patrones y Secuencias,C,2018,4,D,B,E,E,D,D,C,C,C,C,C,False,False,True,False,False
+ingles,(A) 2π (B) 8 (C) 6 + π (D) 3π − 2 (E) 3π,Geometría y Figuras,B,2018,4,No Answer,B,No Answer,D,E,A,B,D,D,E,E,False,False,False,False,False
+ingles,(A) 1 (B) 2 (C) 3 (D) 4 (E) 5,Geometría y Figuras,C,2018,4,C,C,A,C,E,D,D,A,D,E,E,True,False,True,True,True
+ingles,(A) 1262 (B) 2016 (C) 2018 (D) 3025 (E) 3027,Geometría y Figuras,D,2018,4,E,E,A,B,D,D,B,E,E,E,E,False,False,False,False,False
+ingles,(A) 8 (B) 9 (C) 10 (D) 11 (E) 12,Geometría y Figuras,C,2018,5,B,A,A,A,A,C,A,B,B,A,A,False,False,False,False,False
+ingles,(A) First position (B) Second position (C) Third position (D) Fourth position (E) Fifth position,Geometría y Figuras,C,2017,6,B,No Answer,No Answer,C,C,B,B,C,E,A,A,True,True,True,True,False
+ingles,(A) First position (B) Second position (C) Third position (D) Fourth position (E) Fifth position,Geometría y Figuras,D,2017,6,B,A,B,A,B,B,B,B,A,C,C,False,False,True,False,False
+ingles,(A) First house (B) Second house (C) Third house (D) Fourth house (E) Fifth house,Geometría y Figuras,E,2017,1,C,C,No Answer,D,A,E,E,C,C,B,B,False,True,False,False,True
+ingles,(A) 3 (B) 4 (C) 5 (D) 6 (E) 7,Geometría y Figuras,B,2017,1,B,B,C,A,B,B,B,B,B,D,D,,,,,
+ingles,(A) First shape (B) Second shape (C) Third shape (D) Fourth shape (E) Fifth shape,Patrones y Secuencias,A,2017,1,C,E,E,E,E,C,E,E,C,B,B,,,,,
+ingles,(A) 1 (B) 2 (C) 3 (D) 4 (E) 5,Combinatoria y Probabilidad,B,2017,1,A,C,B,A,A,A,B,C,E,A,A,False,False,False,False,False
+ingles,(A) 4 (B) 5 (C) 7 (D) 8 (E) 11,Combinatoria y Probabilidad,B,2017,1,B,E,D,E,E,C,B,C,B,D,D,False,False,False,False,False
+ingles,(A) 1 (B) 2 (C) 3 (D) 4 (E) 5,Geometría y Figuras,B,2017,2,B,C,No Answer,No Answer,C,C,C,B,A,C,C,False,False,True,False,False
+ingles,(A) 3 (B) 4 (C) 5 (D) 6 (E) 8,Álgebra y Aritmética Visual,D,2017,2,C,C,A,A,C,No Answer,D,D,A,A,A,False,False,True,False,False
+ingles,(A) 2 (B) 10 (C) 12 (D) 13 (E) 16,Geometría y Figuras,D,2017,2,E,A,B,A,D,No Answer,C,E,E,B,B,False,False,False,False,False
+ingles,"(A) three triangles, one square (B) one triangle, three squares (C) one triangle, one square (D) three triangles, three squares (E) three triangles, two squares",Geometría y Figuras,C,2017,2,C,C,A,B,D,No Answer,C,C,D,E,E,,,,,
+ingles,(A) 382 (B) 282 (C) 284 (D) 823 (E) 824,Patrones y Secuencias,C,2017,2,No Answer,No Answer,B,D,B,D,A,E,B,A,A,False,False,False,False,False
+ingles,(A) First curve (B) Second curve (C) Third curve (D) Fourth curve (E) Fifth curve,Geometría y Figuras,E,2017,4,No Answer,D,A,B,C,E,C,D,D,A,C,True,False,True,True,True
+ingles,(A) First position (B) Second position (C) Third position (D) Fourth position (E) Fifth position,Patrones y Secuencias,E,2017,4,A,B,No Answer,E,C,C,D,C,B,B,B,True,True,True,True,False
+ingles,(A) 75% (B) 80% (C) 90% (D) 95% (E) 100%,Patrones y Secuencias,B,2017,4,C,No Answer,E,D,E,A,E,E,B,E,E,False,False,False,False,False
+ingles,(A) 15 (B) 16 (C) 17 (D) 18 (E) 19,Patrones y Secuencias,B,2017,5,E,E,C,E,E,No Answer,E,E,E,E,A,False,False,True,True,False
+ingles,(A) 1 (B) 2 (C) 3 (D) 4 (E) 5,Geometría y Figuras,C,2017,5,C,B,D,D,D,C,C,B,C,E,E,False,False,False,False,False
+ingles,(A) First piece (B) Second piece (C) Third piece (D) Fourth piece (E) Fifth piece,Patrones y Secuencias,C,2017,5,A,No Answer,A,B,A,B,A,E,A,A,A,False,False,False,False,False
+ingles,(A) 2/5 (B) 1/3 (C) 2/7 (D) 3/8 (E) 4/11,Geometría y Figuras,B,2017,5,D,D,No Answer,C,C,B,D,D,B,A,B,False,False,False,False,False
+ingles,(A) First cuboid (B) Second cuboid (C) Third cuboid (D) Fourth cuboid (E) Fifth cuboid,Lógica y Razonamiento Visual,A,2017,5,B,No Answer,No Answer,B,A,A,A,A,A,A,A,True,True,False,True,False
+ingles,(A) 5 (B) 6 (C) 7 (D) 8 (E) 9,Geometría y Figuras,D,2017,5,D,D,C,D,D,D,D,D,D,D,D,False,False,False,False,True
+ingles,(A) none (B) 40 of each colour (C) 40 black and 41 white ones (D) 41 of each colour (E) 40 white and 41 black ones,Geometría y Figuras,E,2017,5,E,C,A,C,D,E,E,C,E,E,A,False,False,False,False,False
+ingles,(A) 4/5 (B) 3/4 (C) 2/3 (D) 1/2 (E) 1/3,Geometría y Figuras,D,2017,5,D,C,A,D,A,D,D,D,D,D,C,False,False,False,False,False
+ingles,(A) 50 (B) 54 (C) 55 (D) 56 (E) 57,Geometría y Figuras,D,2017,5,C,D,A,C,C,C,D,B,D,A,C,False,False,False,False,False
+ingles,(A) Amy (B) Bert (C) Carl (D) Doris (E) Ernst,Álgebra y Aritmética Visual,E,2016,1,E,D,No Answer,B,A,D,D,E,E,E,E,False,False,False,False,False
+ingles,(A) 2 (B) 4 (C) 5 (D) 6 (E) 7,Álgebra y Aritmética Visual,B,2016,1,B,B,A,D,E,D,C,D,D,A,E,False,False,False,False,False
+ingles,(A) First piece (B) Second piece (C) Third piece (D) Fourth piece (E) Fifth piece,Lógica y Razonamiento Visual,B,2016,1,E,B,A,D,E,A,A,B,C,E,E,False,False,False,False,False
+ingles,(A) 0 (B) 1 (C) 2 (D) 3 (E) 4,Patrones y Secuencias,D,2016,1,C,A,No Answer,D,D,C,C,E,B,A,A,True,True,True,True,True
+ingles,(A) 1 (B) 2 (C) 4 (D) 5 (E) 6,Patrones y Secuencias,D,2016,1,D,D,D,D,E,No Answer,C,C,C,E,D,False,False,False,False,False
+ingles,(A) 2 blocks (B) 4 blocks (C) 6 blocks (D) 8 blocks (E) 10 blocks,Patrones y Secuencias,E,2016,1,E,E,No Answer,E,C,A,E,E,D,A,A,False,False,False,False,False
+ingles,(A) Azra (B) Bernhard (C) Christa (D) David (E) Elsa,Combinatoria y Probabilidad,B,2016,1,C,No Answer,D,C,D,E,C,E,B,A,A,False,False,False,False,False
+ingles,(A) 10 cm² (B) 20 cm² (C) 25 cm² (D) 40 cm² (E) 50 cm²,Geometría y Figuras,E,2016,2,E,E,C,E,C,E,E,E,E,E,E,False,False,True,False,False
+ingles,(A) A (B) B (C) C (D) D (E) E,Geometría y Figuras,B,2016,2,C,C,No Answer,C,E,E,C,D,C,E,E,False,False,False,False,False
+ingles,(A) A (B) B (C) C (D) D (E) E,Álgebra y Aritmética Visual,C,2016,2,A,A,B,C,B,A,B,A,C,B,B,False,False,False,False,False
+ingles,(A) 5 (B) 9 (C) 12 (D) 15 (E) 19,Geometría y Figuras,B,2016,2,No Answer,No Answer,C,E,D,B,B,A,B,A,A,False,False,False,False,False
+ingles,(A) 11 (B) 13 (C) 15 (D) 16 (E) 17,Patrones y Secuencias,E,2016,3,D,B,C,C,D,No Answer,E,C,B,B,B,False,False,False,False,False
+ingles,(A) First region (B) Second region (C) Third region (D) Fourth region (E) Fifth region,Geometría y Figuras,A,2016,3,E,B,No Answer,C,B,E,A,E,E,A,A,True,True,True,True,True
+ingles,(A) 2 (B) 3 (C) 4 (D) 5 (E) 6,Combinatoria y Probabilidad,D,2016,4,D,D,A,D,C,B,D,D,E,D,D,,,,,
+ingles,(A) 315° (B) 330° (C) 345° (D) 360° (E) 375°,Geometría y Figuras,B,2016,4,D,D,A,E,D,No Answer,D,D,D,D,D,False,False,False,True,False
+ingles,(A) 11 (B) 12 (C) 13 (D) 14 (E) 15,Patrones y Secuencias,B,2016,4,No Answer,C,No Answer,C,C,D,B,B,C,E,E,False,False,False,False,False
+ingles,(A) a (B) b (C) c (D) d (E) It is not uniquely defined.,Patrones y Secuencias,D,2016,5,D,D,No Answer,B,B,B,D,D,D,,,,,,,
+ingles,(A) only 0 (B) only 1 (C) only 2 (D) only 0 and 1 (E) either 0 or 1 or 2,Lógica y Razonamiento Visual,A,2016,5,C,No Answer,D,A,E,A,B,E,A,D,D,False,False,False,True,False
+ingles,(A) 6 (B) 15 (C) 19 (D) 22 (E) 27,Combinatoria y Probabilidad,D,2016,5,A,A,E,E,B,A,E,B,No Answer,C,C,False,False,False,False,False
+ingles,(A) less than 10 (B) 10 (C) 12 (D) more than 12 (E) This colouring cannot be obtained.,Patrones y Secuencias,A,2016,5,C,A,C,A,C,C,B,C,B,B,B,True,False,False,False,False
+ingles,(A) A (B) B (C) C (D) D (E) E,Lógica y Razonamiento Visual,B,2015,6,B,B,No Answer,C,B,B,A,B,B,A,A,False,False,False,False,False
+ingles,(A) [Opción A] (B) [Opción B] (C) [Opción C] (D) [Opción D] (E) [Opción E],Lógica y Razonamiento Visual,E,2015,6,A,E,No Answer,A,E,No Answer,A,A,B,A,A,True,True,True,True,True
+ingles,(A) 6 (B) 5 (C) 4 (D) 3 (E) 2,Patrones y Secuencias,E,2015,6,E,E,A,C,E,No Answer,E,E,A,C,C,False,False,False,False,False
+ingles,(A) [Opción A] (B) [Opción B] (C) [Opción C] (D) [Opción D] (E) [Opción E],Geometría y Figuras,B,2015,6,B,E,No Answer,E,E,C,D,C,D,A,A,False,False,False,False,False
+ingles,(A) 10 (B) 11 (C) 12 (D) 18 (E) 30,Combinatoria y Probabilidad,C,2015,6,D,C,B,A,C,D,D,C,D,D,D,False,False,False,False,False
+ingles,(A) [Opción A] (B) [Opción B] (C) [Opción C] (D) [Opción D] (E) [Opción E],Patrones y Secuencias,A,2015,6,D,D,No Answer,A,C,B,C,C,D,A,A,True,True,True,True,True
+ingles,(A) 1 (B) 2 (C) 4 (D) 5 (E) 6,Geometría y Figuras,E,2015,1,E,E,A,E,A,A,E,A,A,C,E,False,False,True,True,False
+ingles,(A) 1 (B) 2 (C) 3 (D) 4 (E) 9,Lógica y Razonamiento Visual,E,2015,1,E,No Answer,B,A,E,C,C,E,C,A,E,False,False,False,False,False
+ingles,(A) [Opción A] (B) [Opción B] (C) [Opción C] (D) [Opción D] (E) [Opción E],Lógica y Razonamiento Visual,A,2015,1,A,A,D,A,D,E,C,C,C,E,E,False,False,False,False,False
+ingles,(A) [Opción A] (B) [Opción B] (C) [Opción C] (D) [Opción D] (E) [Opción E],Lógica y Razonamiento Visual,B,2015,1,D,E,No Answer,A,E,E,E,E,E,A,A,True,True,False,True,True
+ingles,(A) 0 (B) 1 (C) 2 (D) 3 (E) 4,Geometría y Figuras,D,2015,1,D,C,A,E,C,C,C,C,C,E,D,False,False,False,True,True
+ingles,(A) 2 (B) 3 (C) 4 (D) 5 (E) 8,Combinatoria y Probabilidad,E,2015,1,E,E,A,No Answer,E,E,E,E,E,E,E,False,False,False,False,False
+ingles,(A) [Opción A] (B) [Opción B] (C) [Opción C] (D) [Opción D] (E) [Opción E],Geometría y Figuras,B,2015,2,B,B,No Answer,B,D,B,D,A,B,A,A,False,False,False,False,False
+ingles,(A) 2 (B) 3 (C) 4 (D) 5 (E) 6,Álgebra y Aritmética Visual,A,2015,2,B,A,E,B,B,A,C,C,D,C,C,False,False,True,True,False
+ingles,(A) 4 cm (B) 6 cm (C) 8 cm (D) 10 cm (E) 12 cm,Álgebra y Aritmética Visual,A,2015,2,A,A,B,No Answer,A,A,A,A,A,D,A,False,False,False,True,False
+ingles,(A) 9 (B) 10 (C) 11 (D) 12 (E) 13,Patrones y Secuencias,D,2015,2,No Answer,D,A,A,E,D,D,D,E,D,D,False,False,False,True,False
+ingles,(A) only blue (B) only green (C) only red (D) Each of the three colours is possible. (E) The colouring described is not possible,Patrones y Secuencias,C,2015,2,B,B,No Answer,D,D,B,B,B,D,E,E,False,False,False,False,False
+ingles,(A) 2 (B) 4 (C) 8 (D) 16 (E) 32,Geometría y Figuras,C,2015,3,C,A,A,A,E,D,C,B,D,E,E,False,False,False,False,False
+ingles,(A) a (B) b (C) c (D) d (E) e,Combinatoria y Probabilidad,D,2015,3,E,D,A,B,No Answer,D,D,C,B,E,E,False,False,False,False,False
+ingles,(A) 1 (B) −2 (C) 6 (D) −4 (E) 0,Lógica y Razonamiento Visual,C,2015,3,B,B,E,B,D,C,C,No Answer,B,E,E,False,False,False,False,False
+ingles,(A) 1 (B) 2 (C) 3 (D) 4 (E) 5,Patrones y Secuencias,D,2015,3,B,No Answer,A,D,B,E,D,B,E,D,D,False,False,False,True,False
+ingles,(A) a and b (B) b and d (C) b and c (D) a and d (E) a and c,Combinatoria y Probabilidad,D,2015,4,A,D,B,C,D,No Answer,B,B,E,E,E,False,False,False,False,False
+ingles,(A) [Opción A] (B) [Opción B] (C) [Opción C] (D) [Opción D] (E) [Opción E],Lógica y Razonamiento Visual,E,2015,5,E,D,No Answer,C,E,No Answer,D,E,D,E,E,False,False,True,True,True
+ingles,(A) X + Y < Z (B) √X + √Y = √Z (C) X + Y = Z (D) X² + Y² = Z² (E) X² + Y² = Z,Geometría y Figuras,C,2015,5,A,C,E,D,A,D,C,C,C,D,D,False,False,False,True,False
+ingles,(A) 6 (B) 7 (C) 8 (D) 10 (E) 12,Geometría y Figuras,D,2014,6,D,No Answer,No Answer,B,E,A,C,C,C,A,A,False,False,False,False,False
+ingles,(A) 1 (B) 2 (C) 3 (D) 4 (E) 5,Geometría y Figuras,C,2014,6,B,C,A,C,C,C,C,D,C,A,A,False,False,False,False,False
+ingles,(A) 2 (B) 4 (C) 6 (D) 7 (E) 8,Patrones y Secuencias,D,2014,6,D,C,A,C,D,E,D,D,D,,,,,,,
+ingles,(A) [Opción A] (B) [Opción B] (C) [Opción C] (D) [Opción D] (E) [Opción E],Geometría y Figuras,D,2014,6,B,A,A,A,E,No Answer,E,D,A,A,A,False,False,False,False,False
+ingles,(A) 68 (B) 77 (C) 86 (D) 95 (E) 97,Álgebra y Aritmética Visual,D,2014,6,D,D,D,D,E,C,D,D,C,D,D,False,False,True,True,True
+ingles,(A) red (B) blue (C) green (D) Yellow (E) This cannot be worked out for certain.,Álgebra y Aritmética Visual,A,2014,6,A,B,E,A,D,D,E,E,D,E,E,False,False,False,False,True
+ingles,A) B) C) D) E),Geometría y Figuras,D,2014,1,D,A,No Answer,B,C,B,C,C,A,A,A,True,True,True,True,True
+ingles,A) B) C) D) E),Geometría y Figuras,B,2014,1,A,No Answer,No Answer,C,D,E,C,C,D,D,D,False,False,False,False,False
+ingles,A) 18 B) 19 C) 20 D) 21 E) 22,Álgebra y Aritmética Visual,D,2014,1,C,E,C,E,A,B,A,C,C,D,D,False,False,False,False,False
+ingles,(A) 4 (B) 5 (C) 6 (D) 7 (E) 8,Álgebra y Aritmética Visual,C,2014,2,C,A,D,C,C,C,A,A,B,D,D,False,False,False,False,False
+ingles,(A) [Opción A] (B) [Opción B] (C) [Opción C] (D) [Opción D] (E) [Opción E],Geometría y Figuras,D,2014,2,No Answer,A,A,A,C,D,C,C,E,E,E,False,False,False,False,False
+ingles,(A) 1 (B) 4 (C) 5 (D) 6 (E) 7,Geometría y Figuras,E,2014,2,B,D,No Answer,D,B,D,A,B,E,A,A,False,False,False,False,False
+ingles,(A) 14 (B) 15 (C) 17 (D) 28 (E) 29,Geometría y Figuras,E,2014,2,No Answer,No Answer,B,B,D,D,C,No Answer,A,A,A,False,False,False,False,False
+ingles,(A) 3 (B) 4 (C) 9/2 (D) 5 (E) 6,Geometría y Figuras,E,2014,3,E,E,A,C,E,E,D,E,E,E,E,False,False,False,False,False
+ingles,(A) 12 cm² (B) 16 cm² (C) 18 cm² (D) 24 cm² (E) 32 cm²,Geometría y Figuras,E,2014,3,E,D,D,C,E,No Answer,E,C,C,A,E,False,False,False,False,False
+ingles,(A) 16 (B) 14 (C) 8 (D) 6 (E) 4,Patrones y Secuencias,A,2014,3,D,C,No Answer,C,B,E,C,C,A,A,A,False,False,False,False,False
+ingles,(A) a < b < c (B) a < c < b (C) b < a < c (D) b < c < a (E) c < b < a,Álgebra y Aritmética Visual,E,2014,4,E,E,No Answer,A,A,A,C,A,E,E,A,False,False,False,False,False
+ingles,(A) 60 × 40 (B) 120 × 50 (C) 120 × 90 (D) 160 × 60 (E) 160 × 100,Patrones y Secuencias,C,2014,4,A,E,B,A,A,E,B,D,A,A,A,False,False,False,False,False
+ingles,(A) 30° (B) 45° (C) 50° (D) 75° (E) It depends on the location of point P,Geometría y Figuras,E,2014,4,B,B,B,E,E,No Answer,B,B,B,B,B,False,False,False,False,False
+ingles,(A) It is 2-times as big. (B) It is 3-times as big. (C) It is π-times as big. (D) It is 4-times as big. (E) It is 8-times as big.,Geometría y Figuras,D,2014,5,D,A,D,A,A,A,A,A,A,D,D,False,False,False,False,False
+ingles,(A) 13 (B) 18 (C) 21 (D) 24 (E) 26,Patrones y Secuencias,B,2014,5,B,No Answer,D,B,D,E,B,B,B,B,B,False,False,False,False,False
+ingles,(A) 2 : 1 (B) √3 : 1 (C) 3 : 2 (D) √2 : 1 (E) 5 : 4,Álgebra y Aritmética Visual,D,2014,5,A,B,A,D,A,D,D,B,D,A,D,False,False,False,False,False
+ingles,(A) 2/5 (B) 1/4 (C) 1/√2 (D) 1/√5 (E) 1/2,Patrones y Secuencias,A,2014,5,No Answer,No Answer,B,D,E,E,A,C,D,C,C,False,False,True,False,False
+valenciano,A) 1/2 B) 1/3 C) 11/12 D) 2/3 E) 1/1,Geometría y Figuras,E,2015,3,B,No Answer,E,A,No Answer,E,E,E,E,E,E,False,False,False,False,True
+valenciano,"A) 19,5 B) 21 C) 22,25 D) 25 E) 30,5",Geometría y Figuras,C,2015,3,D,D,C,A,C,E,E,No Answer,E,E,E,False,False,False,False,True
+valenciano,A) 64 B) 60 C) 56 D) 48 E) 36,Geometría y Figuras,B,2015,3,B,B,A,No Answer,A,B,B,B,B,B,B,False,False,True,False,False
+valenciano,A) 5 B) 6 C) 7 D) 8 E) 9,Geometría y Figuras,D,2015,3,A,C,No Answer,No Answer,B,No Answer,B,A,A,B,B,False,True,True,True,False
+valenciano,A) 176 B) 188 C) 1407 D) 1572 E) 1611,Álgebra y Aritmética Visual,A,2015,3,No Answer,No Answer,A,A,A,D,D,D,D,A,D,False,False,False,False,False
+valenciano,A) B) C) D) E),Álgebra y Aritmética Visual,B,2015,3,A,D,No Answer,No Answer,E,E,C,D,C,A,A,True,True,True,True,True
+valenciano,A) B) C) D) E) ,Álgebra y Aritmética Visual,D,2015,3,E,E,B,A,D,D,B,C,E,A,A,False,False,False,False,False
+valenciano,A) 15° B) 19° C) 20° D) 27° E) 28°,Álgebra y Aritmética Visual,B,2015,4,E,No Answer,A,A,C,No Answer,E,E,E,B,B,False,True,,True,False
+valenciano,A) 1/2 B) 1/3 C) 1/4 D) 2/3 E) 2/9,Geometría y Figuras,E,2015,4,E,E,A,A,E,C,E,E,E,B,E,False,False,False,False,False
+valenciano,A) 1/(1 + √3) B) 2/(1 + √3) C) 2/(2 + √3) D) 1/(2 + √3) E) 2/(2 + √2),Combinatoria y Probabilidad,A,2015,4,C,C,No Answer,No Answer,C,No Answer,C,C,C,B,B,,False,False,,
+valenciano,A) 1 B) 2/3 C) 1/2 D) 1/3 E) 1/4,Lógica y Razonamiento Visual,D,2015,4,No Answer,C,A,C,C,A,C,C,C,B,B,False,True,False,True,False
+valenciano,A) 6π cm B) 12π cm C) 18 cm D) 18π cm E) 25π cm,Álgebra y Aritmética Visual,D,2015,4,B,B,A,C,C,No Answer,B,B,B,D,D,False,False,False,True,False
+valenciano,A) L i M B) P i N C) S i R D) K i R E) M i T,Geometría y Figuras,E,2015,4,E,C,No Answer,A,E,D,C,No Answer,D,A,A,False,False,False,False,False
+valenciano,"A) Tots quatre B) Sols el II C) II, III i IV D) Sols el IV E) III i IV",Álgebra y Aritmética Visual,E,2015,5,E,E,A,A,E,E,E,E,E,C,C,True,False,True,False,False
+valenciano,A) 2^1/2 B) 2^−1 · 3^1/2 C) 2^3/2 · 3^−1 D) 2 · 3^−1/2 E) 2^−1/2 · 3^1/4,Geometría y Figuras,E,2015,5,E,E,No Answer,B,A,E,E,E,E,A,A,True,False,False,False,False
+valenciano,A) 18 cm^2 B) 20 cm^2 C) 22 cm^2 D) 24 cm^2 E) 26 cm^2,Lógica y Razonamiento Visual,D,2015,5,A,D,D,No Answer,D,No Answer,D,No Answer,A,D,D,False,False,False,True,False
+valenciano,A) (π + 4) cm^2 B) (2π + 4) cm^2 C) (3π + 4) cm^2 D) (4π + 4) cm^2 E) (5π + 4) cm^2,Álgebra y Aritmética Visual,A,2015,5,A,B,No Answer,No Answer,D,C,C,A,C,E,C,True,True,True,True,True
+valenciano,A) 75π B) 80π C) 85π D) 90π E) 95π,Combinatoria y Probabilidad,B,2015,5,B,A,A,A,E,A,B,No Answer,D,A,A,False,False,False,False,False
+valenciano,A) 90° B) 120° C) 135° D) 150° E) Una altra resposta,Geometría y Figuras,B,2015,5,D,A,D,A,No Answer,A,B,B,D,E,E,False,False,False,False,False
+valenciano,A) B) C) D) E) ,Lógica y Razonamiento Visual,E,2015,5,D,D,A,D,D,A,E,D,B,A,A,True,True,True,False,False
+valenciano,A) 18 cm^2 B) 20 cm^2 C) 22 cm^2 D) 24 cm^2 E) 26 cm^2,Geometría y Figuras,D,2015,6,E,No Answer,A,A,D,E,A,A,A,D,D,False,False,False,True,False
+valenciano,A) k < 2 B) 2 < k < 3 C) 3 < k < 4 D) 4 < k < 5 E) 5 < k ,Geometría y Figuras,C,2015,6,No Answer,No Answer,No Answer,A,No Answer,A,B,C,B,D,D,False,False,False,True,False
+valenciano,"A) És de menys d'un metre B) És exactament un metre C) És de més d'un metre D) Sense conèixer la longitud de la maroma no podem decidir entre A), B) i C) E) Sense conèixer l'altura de la persona respecte de la mar no podem decidir entre A), B) i C)",Álgebra y Aritmética Visual,C,2015,6,C,A,B,A,D,No Answer,C,E,D,D,E,False,False,False,True,True
+valenciano,A) 1/2 B) 1/3 C) 2/3 D) 3/4 E) 3/5,Geometría y Figuras,B,2015,6,A,A,A,A,A,D,A,C,D,D,D,False,True,,True,False
+valenciano,A) 30 B) 26 C) 40 D) 48 E) 24,Geometría y Figuras,E,2015,6,A,D,A,A,E,No Answer,D,C,B,B,B,False,False,False,False,False
+valenciano,A) 25π cm^2 B) 50π cm^2 C) 75π cm^2 D) 100π cm^2 E) No és possible determinar l'àrea sense informació addicional. ,Lógica y Razonamiento Visual,A,2015,6,A,A,A,C,E,C,A,A,E,E,E,False,False,False,False,True
+valenciano,A) 18 cm B) 15 cm C) 12 cm D) 9 cm E) 6 cm,Geometría y Figuras,A,2016,3,A,A,B,A,B,E,C,E,C,A,A,True,False,False,False,False
+valenciano,A) 1/6 B) 1/4 C) 5/16 D) 3/8 E) 5/11,Álgebra y Aritmética Visual,C,2016,3,C,C,No Answer,No Answer,C,B,C,C,C,C,C,False,False,False,False,False
+valenciano,"A) Un 5% B) Un 12, 5% C) Un 20% D) Un 10% E) Un 25%",Geometría y Figuras,C,2016,3,C,C,A,No Answer,B,E,C,C,C,B,B,False,True,False,False,False
+valenciano,A) 0 B) 1 C) 2 D) 3 E) 4,Geometría y Figuras,D,2016,3,D,D,D,D,D,No Answer,D,D,D,A,A,False,False,False,False,False
+valenciano,A) 9 B) 6 C) 10 D) 8 E) 5,Geometría y Figuras,E,2016,3,E,E,C,No Answer,B,A,E,E,E,A,D,False,False,False,False,False
+valenciano,A) (√2)/2 B) √2 C) 1 D) 1 + √2 E) √2 − 1,Combinatoria y Probabilidad,C,2016,3,C,C,No Answer,C,C,D,B,C,C,E,E,False,False,False,False,False
+valenciano,A) 4 B) 6 C) 8 D) 10 E) Més de 10,Geometría y Figuras,D,2016,3,No Answer,D,A,A,D,D,D,D,B,A,A,False,False,False,False,False
+valenciano,A) 41 B) 46 C) 51 D) 56 E) 61,Geometría y Figuras,C,2016,3,C,C,A,No Answer,C,C,C,C,C,A,E,False,False,False,False,False
+valenciano,A) 11 B) 21 C) 31 D) 1 E) Pot tenir distints valors.,Álgebra y Aritmética Visual,B,2016,4,B,B,C,A,No Answer,E,E,B,E,A,E,False,False,False,False,False
+valenciano,A) 2 B) 4π C) 10π D) 20π E) Depèn de la posició dels cercles.,Geometría y Figuras,D,2016,4,D,D,A,No Answer,D,D,D,D,D,E,E,False,False,False,False,False
+valenciano,A) 9 B) 6 C) 10 D) 8 E) 5,Geometría y Figuras,E,2016,4,E,No Answer,D,A,A,E,E,E,E,B,B,False,False,False,False,False
+valenciano,A) 90° B) 100° C) 108° D) 120° E) Pot tenir distints valors.,Álgebra y Aritmética Visual,C,2016,4,C,C,A,No Answer,C,C,C,C,C,C,C,False,True,True,False,False
+valenciano,A) 3:4 B) 2:5 C) 5:9 D) 1:2 E) 4:7,Geometría y Figuras,A,2016,4,A,A,No Answer,A,D,B,A,E,C,D,D,False,False,False,False,False
+valenciano,"A) 3 cm^2 B) 4 cm^2 C) 4,5 cm^2 D) 5,5 cm^2 E) 6 cm^2",Geometría y Figuras,B,2016,4,No Answer,No Answer,A,A,A,D,B,B,B,B,A,False,False,False,False,False
+valenciano,"A) 2/9 B) √5 C) 1 + √2 D) 2,5 E) 0,8π",Geometría y Figuras,C,2016,5,C,C,No Answer,C,No Answer,No Answer,C,C,C,C,C,False,False,False,False,False
+valenciano,A) 3:4 B) 2:5 C) 5:9 D) 1:2 E) 4:7,Geometría y Figuras,A,2016,5,A,C,No Answer,E,C,D,A,A,E,A,B,True,True,False,False,False
+valenciano,A) fila 1 B) fila 2 C) fila 3 D) fila 4 E) No es pot determinar.,Patrones y Secuencias,D,2016,5,E,B,A,A,D,D,D,B,D,A,A,False,False,False,False,False
+valenciano,A) 56 cm^2 B) 65 cm^2 C) 70 cm^2 D) 182 cm^2 E) 28√5 cm^2,Geometría y Figuras,C,2016,5,No Answer,No Answer,A,A,C,E,C,No Answer,C,E,E,False,False,False,False,False
+valenciano,A) π/2 − √3/2 B) √3 − π/2 C) π/8 D) √3 − 3π/2 E) π/3 − √3/2,Geometría y Figuras,B,2016,5,B,B,No Answer,No Answer,B,No Answer,B,B,D,B,B,False,True,False,False,False
+valenciano,A) 1/12 B) 1/11 C) 1/16 D) 1/8 E) 1/4,Lógica y Razonamiento Visual,B,2016,5,No Answer,B,A,A,B,A,B,B,B,D,B,False,False,False,True,False
+valenciano,A) Imatge 1 B) Imatge 2 C) Imatge 3 D) Imatge 4 E) Imatge 5,Lógica y Razonamiento Visual,A,2016,5,A,A,No Answer,C,D,A,E,A,C,A,A,True,True,True,True,True
+valenciano,A) 120π cm B) (160π)/3 cm C) (140π)/3 cm D) 60π cm E) (200π)/3 cm,Geometría y Figuras,D,2016,5,No Answer,D,A,A,E,No Answer,E,D,E,D,D,False,False,False,True,False
+valenciano,A) 2 B) 4π C) 10π D) 20π E) Depèn de la posició dels cercles.,Álgebra y Aritmética Visual,D,2016,5,D,D,A,A,D,D,D,D,D,D,D,False,False,False,True,False
+valenciano,A) 15° B) 30° C) 45° D) 60° E) 90°,Geometría y Figuras,B,2016,6,A,B,A,No Answer,D,B,B,B,B,B,B,False,True,False,False,False
+valenciano,A) 30 B) 35 C) 31 D) 33 E) Una altra resposta,Lógica y Razonamiento Visual,D,2016,6,A,No Answer,No Answer,No Answer,D,D,No Answer,D,No Answer,D,D,False,False,False,True,False
+valenciano,A) 1/12 B) 1/16 C) 1/8 D) 1/6 E) 2/15,Geometría y Figuras,A,2016,6,A,D,A,A,A,C,C,A,D,B,B,False,True,False,False,True
+valenciano,A) 2 B) 3 C) 4 D) 5 E) No hi ha prou dades per a deduir-ho.,Geometría y Figuras,C,2016,6,No Answer,C,A,D,E,A,C,C,C,C,C,False,False,True,False,False
+valenciano,A) (3π + 18)/4 B) (3π)/4 + 3 C) π + 3 D) 2π + 3 E) (4π + 9)/2,Geometría y Figuras,D,2016,6,D,No Answer,No Answer,A,C,C,D,D,D,D,D,False,False,False,True,False
+valenciano,A) 2 B) 8/5 C) 5/3 D) 3/2 E) 4/3,Álgebra y Aritmética Visual,C,2016,6,A,B,A,No Answer,C,C,D,No Answer,E,E,E,False,False,False,False,True
+valenciano,A) 28 B) 30 C) 32 D) 34 E) 36,Combinatoria y Probabilidad,B,2016,6,B,No Answer,No Answer,A,C,C,B,B,B,B,B,False,False,False,False,False
+valenciano,A) 98° B) 100° C) 104° D) 108° E) 110°,Geometría y Figuras,D,2016,6,D,D,No Answer,C,No Answer,D,D,D,D,D,D,False,False,False,True,False
+valenciano,A)  B)  C)  D)  E) ,Geometría y Figuras,D,2017,1,E,C,A,No Answer,E,E,D,D,E,B,B,False,True,False,False,False
+valenciano,A) 1 B) 2 C) 3 D) 4 E) 5,Geometría y Figuras,D,2017,1,D,No Answer,No Answer,A,D,D,D,E,E,C,C,False,False,True,False,False
+valenciano,A) 55 B) 60 C) 90 D) 110 E) Més de 200,Patrones y Secuencias,D,2017,1,No Answer,D,B,A,E,No Answer,C,No Answer,D,E,E,False,False,False,False,False
+valenciano,A) 3 m B) 4 m C) 2 m D) 5 m E) 1 m,Geometría y Figuras,C,2017,1,C,C,No Answer,B,A,C,C,C,C,C,C,False,False,True,False,False
+valenciano,A) 9 B) 10 C) 11 D) 12 E) 20,Álgebra y Aritmética Visual,D,2017,1,C,D,A,A,E,E,E,B,C,E,C,False,False,False,False,False
+valenciano,A) 8 cm² B) 10 cm² C) 25 cm² D) 16 cm² E) 15 cm²,Geometría y Figuras,B,2017,1,A,B,A,E,B,C,B,B,B,B,B,False,True,False,False,False
+valenciano,A) 5 cm B) 10 cm C) 20 cm D) 30 cm E) 40 cm,Geometría y Figuras,C,2017,1,No Answer,No Answer,A,C,B,E,D,D,B,A,B,False,False,False,False,False
+valenciano,A) 1 B) 2 C) 3 D) 4 E) 5,Lógica y Razonamiento Visual,D,2017,1,A,C,A,D,E,No Answer,B,A,B,D,D,False,False,True,True,False
+valenciano,A) 12 B) 13 C) 14 D) 15 E) 16,Lógica y Razonamiento Visual,E,2017,1,No Answer,C,A,A,D,E,E,E,E,C,C,False,False,False,False,False
+valenciano,A) 18o B) 21o C) 24o D) 28o E) 47o,Geometría y Figuras,B,2017,1,No Answer,C,A,A,E,D,C,B,B,D,D,False,False,False,True,False
+valenciano,A) 9 B) 7 C) 4 D) 0 E) 1,Patrones y Secuencias,C,2017,1,C,C,No Answer,D,A,B,C,C,C,C,C,False,True,True,False,False
+valenciano,A)  B)  C)  D)  E),Patrones y Secuencias,D,2017,1,D,A,No Answer,No Answer,E,B,A,A,B,B,D,True,True,True,True,False
+valenciano,A)  B)  C)  D)  E) ,Álgebra y Aritmética Visual,C,2017,1,C,C,A,E,A,C,C,No Answer,C,E,C,False,False,False,False,False
+valenciano,"A) llima, pruna, raïm, plàtan B) pera, llima, raïm, plàtan C) pruna, raïm plàtan, pera D) pera, plàtan, pruna, raïm E) pera, llima, pruna, raïm",Álgebra y Aritmética Visual,D,2017,1,C,No Answer,A,C,E,A,C,C,E,B,B,True,True,False,False,True
+valenciano,A) 11 B) 12 C) 13 D) 14 E) 15,Combinatoria y Probabilidad,D,2017,1,D,D,A,No Answer,C,E,D,D,C,D,D,True,,True,True,
+valenciano,A) 17 B) 33 C) 37 D) 41 E) 49,Geometría y Figuras,C,2017,1,D,D,A,C,E,C,E,D,A,D,D,False,False,False,False,False
+valenciano,A) A B) B C) C D) D E) E,Lógica y Razonamiento Visual,E,2017,1,No Answer,B,A,No Answer,D,E,E,B,C,B,B,False,True,False,False,False
+valenciano,A) 46 cm² B) 52 cm² C) 54 cm² D) 56 cm² E) 64 cm²,Álgebra y Aritmética Visual,D,2017,2,D,No Answer,A,A,E,D,E,No Answer,D,D,D,False,True,True,True,False
+valenciano,A) 11 B) 10 C) 9 D) 8 E) 7,Geometría y Figuras,B,2017,2,A,A,A,A,E,D,A,A,A,E,E,False,False,False,False,False
+valenciano,A)  B)  C)  D)  E) ,Geometría y Figuras,B,2017,2,B,No Answer,No Answer,D,E,C,D,C,B,B,B,True,True,True,True,True
+valenciano,A) 9 B) 10 C) 11 D) 12 E) 20,Álgebra y Aritmética Visual,D,2017,2,C,No Answer,B,A,E,E,E,E,C,B,B,False,True,True,False,False
+valenciano,A) 52° B) 76° C) 104° D) 109° E) 142°,Geometría y Figuras,D,2017,2,E,No Answer,No Answer,A,A,E,B,A,E,B,B,False,True,False,False,False
+valenciano,A) 35 B) 36 C) 30 D) 40 E) No es pot saber només amb els nombres ja posats.,Lógica y Razonamiento Visual,A,2017,2,No Answer,No Answer,A,No Answer,C,B,B,E,E,E,E,False,False,False,False,False
+valenciano,A) 30 B) 60 C) 40 D) 36 E) 24,Geometría y Figuras,B,2017,2,B,B,B,B,E,A,B,B,B,B,B,False,True,True,True,True
+valenciano,A) El 2 B) El 3 C) El 4 D) El 5 E) Tots tenen la mateixa àrea.,Geometría y Figuras,E,2017,2,A,A,No Answer,A,D,B,A,E,A,C,C,False,True,True,False,False
+valenciano,A) 54 cm² B) 60 cm² C) 62 cm² D) 80 cm² E) 98 cm²,Geometría y Figuras,C,2017,3,B,No Answer,A,A,C,No Answer,C,No Answer,B,A,A,False,False,False,False,False
+valenciano,A) 50° B) 40° C) 45° D) 55° E) 60°,Geometría y Figuras,E,2017,3,E,E,A,No Answer,E,B,A,A,B,A,A,True,True,False,False,False
+valenciano,A) 42 B) 45 C) 48 D) 51 E) 54,Patrones y Secuencias,A,2017,3,A,C,D,A,C,No Answer,A,E,A,C,C,False,False,True,,True
+valenciano,"A) Hi pot anar qualsevol dels 9 nombres. B) Només hi poden anar l’1, el 5 o el 9. C) Només hi pot anar el 9. D) Només hi pot anar el 5. E) Només hi pot anar l’1.",Lógica y Razonamiento Visual,B,2017,3,No Answer,B,A,E,A,B,B,B,D,A,A,False,False,False,False,False
+valenciano,A) 4 B) 16 C) 20 D) 8 E) 14,Álgebra y Aritmética Visual,D,2017,3,No Answer,No Answer,A,A,D,No Answer,D,B,D,D,D,False,True,True,True,True
+valenciano,A) 58 cm² B) 48 cm² C) 42 cm² D) 52 cm² E) 46 cm²,Geometría y Figuras,B,2017,3,No Answer,E,C,A,D,E,E,B,D,B,A,False,False,False,False,False
+valenciano,A) 4 cm² B) 6 cm² C) 8 cm² D) 16 cm² E) 32 cm²,Geometría y Figuras,C,2017,3,C,C,No Answer,A,E,D,D,C,D,D,A,False,False,False,False,False
+valenciano,A) (3 − 2√2)π B) √2)π C) √3)π D) π/4 E) π,Geometría y Figuras,A,2017,3,A,D,A,E,E,D,A,No Answer,D,E,E,False,False,False,False,True
+valenciano,A) 6 B) 8 C) 9 D) 10 E) 12,Patrones y Secuencias,D,2017,3,D,No Answer,No Answer,A,E,D,B,B,A,C,D,False,False,True,True,False
+valenciano,A) 13 B) 16 C) 9 D) 12 E) 11,Patrones y Secuencias,A,2017,3,E,No Answer,No Answer,No Answer,C,C,C,A,D,B,C,False,False,False,False,False
+valenciano,A) 15° B) 24° C) 30° D) 32° E) 36°,Geometría y Figuras,E,2017,3,No Answer,B,B,E,E,E,C,A,D,B,B,False,False,False,False,False
+valenciano,A) 1/2 B) 1/3 C) 2/3 D) 3/4 E) 2/5,Geometría y Figuras,A,2017,3,A,A,A,C,A,A,A,E,A,A,A,True,False,False,False,False
+valenciano,A) 6 B) 6√2 C) 12 D) 6√3 E) 12√2,Lógica y Razonamiento Visual,B,2017,4,B,B,A,A,B,E,B,B,A,B,B,False,True,True,True,True
+valenciano,A) 100° B) 80° C) 90° D) 135° E) 105°,Geometría y Figuras,B,2017,4,B,A,No Answer,A,D,C,B,No Answer,D,E,B,False,False,False,False,False
+valenciano,A) √2 B) 2 C) 2√2 D) 4 E) 4√2,Combinatoria y Probabilidad,B,2017,4,D,D,No Answer,B,D,B,B,A,C,A,A,True,False,False,False,False
+valenciano,A) a + b B) 2(a + b) C) (a+b)/2 D) √(a + b) E) √(a^2 + b^2),Geometría y Figuras,A,2017,4,A,A,No Answer,A,E,A,A,A,E,B,B,False,True,False,True,True
+valenciano,A) 52 B) 53 C) 54 D) 55 E) 56,Geometría y Figuras,A,2017,4,E,A,D,D,D,E,A,No Answer,A,A,A,False,False,False,False,False
+valenciano,A) 5 B) 5√2 C) 10 D) 8 E) 10√2,Geometría y Figuras,B,2017,4,B,B,No Answer,E,B,B,B,No Answer,B,B,B,False,True,True,False,True
+valenciano,"A) 1,25 cm B) 1,5 cm C) 1,75 cm D) 2 cm E) 2,25 cm",Álgebra y Aritmética Visual,C,2017,4,C,E,A,A,C,A,C,C,C,A,A,False,False,False,False,False
+valenciano,A) 12 B) 32 C) 64 D) 72 E) 120,Álgebra y Aritmética Visual,D,2017,4,No Answer,No Answer,A,A,A,A,D,No Answer,E,A,B,False,,,,False
+valenciano,A) 40° B) 50° C) 60° D) 70° E) 80°,Geometría y Figuras,B,2017,5,B,B,A,D,A,No Answer,B,A,E,B,B,False,True,False,False,False
+valenciano,A) 8 cm B) 80 cm C) 8 m D) 0.0375 m E) 1.5 m,Geometría y Figuras,E,2017,5,E,D,B,C,E,E,D,E,D,D,D,True,True,True,True,False
+valenciano,A) 16 − 4π B) 6 C) 8π − 16 D) 4π E) 16,Geometría y Figuras,C,2017,5,C,No Answer,A,A,C,C,C,A,C,C,C,False,False,True,False,False
+valenciano,A) caixa 1 B) caixa 2 C) caixa 3 D) caixa 4 E) caixa 5,Geometría y Figuras,D,2017,5,B,B,A,A,C,D,C,C,C,C,C,False,False,True,False,False
+valenciano,A) 15 B) 11 C) 9 D) 12 E) 10,Álgebra y Aritmética Visual,D,2017,5,B,A,A,No Answer,E,E,A,No Answer,A,E,E,False,False,False,False,True
+valenciano,A) 28/3 B) √72 C) 3√10 D) 9 E) 5 + √12,Combinatoria y Probabilidad,C,2017,5,No Answer,No Answer,A,A,E,C,C,D,B,C,C,False,False,True,False,False
+valenciano,A) 9√3/4 B) 9√3/2 C) 3√3/4 D) 3√3/2 E) 9√3,Álgebra y Aritmética Visual,E,2017,5,E,E,A,E,No Answer,D,B,E,E,E,E,False,True,False,True,True
+valenciano,A) En qualsevol cas B) Només si \( a = b = c = d = e \) C) Només si \( a + b = c + d \) D) Només si \( a + d = b + c \) E) Una altra resposta,Lógica y Razonamiento Visual,A,2017,6,No Answer,D,A,D,No Answer,A,D,D,C,E,E,False,False,False,False,False
+valenciano,A) 3 B) 4 C) \( \frac{9}{2} \) D) 6 E) 10,Geometría y Figuras,D,2017,6,A,A,No Answer,A,C,D,A,E,E,A,A,False,False,False,False,False
+valenciano,A) 24 B) 72 C) 144 D) 288 E) 576,Combinatoria y Probabilidad,D,2017,6,E,No Answer,A,A,D,A,C,E,E,A,C,False,False,True,False,False
+valenciano,A) \( \sqrt{2} \) B) 2 C) \( \frac{3}{2} \) D) \( \frac{9}{4} \) E) \( \sqrt{3} \),Álgebra y Aritmética Visual,B,2017,6,B,No Answer,No Answer,A,A,A,B,B,B,B,B,True,True,True,False,False
+valenciano,A) B) C) D) E),Geometría y Figuras,E,2018,2,B,B,No Answer,E,D,B,B,B,B,A,A,False,False,False,False,False
+valenciano,A) L’àrea decreix un 20 %. B) L’àrea augmenta un 20 %. C) L’àrea decreix un 4 %. D) L’àrea augmenta un 4 %. E) Cap de les respostes anteriors no és correcta.,Lógica y Razonamiento Visual,D,2017,6,C,C,No Answer,B,C,C,C,C,C,C,C,False,False,True,False,False
+valenciano,A) 3 B) 4 C) 5 D) 6 E) 7,Patrones y Secuencias,B,2018,1,C,E,E,A,E,D,C,E,D,A,A,False,False,False,False,False
+valenciano,"A) 504,5 cm² B) 1010 cm² C) 2018 cm² D) 3027 cm² E) 3530 cm²",Geometría y Figuras,D,2018,1,No Answer,D,A,A,A,E,E,No Answer,D,D,D,False,False,False,True,False
+valenciano,A) 4 B) 5 C) 6 D) 7 E) 8,Álgebra y Aritmética Visual,C,2018,1,No Answer,B,No Answer,A,B,C,B,B,C,B,B,False,False,False,False,False
+valenciano,A) 1 B) 2 C) 3 D) 4 E) 5,Patrones y Secuencias,C,2018,1,C,C,A,A,B,C,C,C,B,C,C,True,True,True,True,True
+valenciano,A) 1 B) 2 C) 3 D) 4 E) 5,Geometría y Figuras,C,2018,1,C,C,No Answer,B,B,No Answer,C,C,C,D,C,False,True,True,True,False
+valenciano,A) 2 B) 3 C) 4 D) 5 E) 6,Álgebra y Aritmética Visual,C,2018,1,E,C,A,A,E,C,C,E,E,C,C,False,True,True,True,False
+valenciano,A) 1 B) 2 C) 3 D) 4 E) 5,Geometría y Figuras,D,2018,1,B,B,A,E,No Answer,D,A,C,C,B,B,False,False,False,False,False
+valenciano,A) 1 i 2 B) 3 i 4 C) 1 i 3 D) 2 i 4 E) 1 i 4,Geometría y Figuras,C,2018,1,C,E,A,No Answer,E,E,E,C,D,A,A,True,True,True,,
+valenciano,A) 9 B) 16 C) 17 D) 22 E) 23,Álgebra y Aritmética Visual,B,2018,1,No Answer,B,E,A,B,B,B,A,A,E,E,False,False,False,False,False
+valenciano,A) 8 B) 10 C) 15 D) 17 E) 22,Geometría y Figuras,D,2018,1,B,A,No Answer,A,D,C,C,C,C,B,B,False,False,False,False,False
+valenciano,A) 7 B) 10 C) 13 D) 16 E) 19,Geometría y Figuras,C,2018,1,C,C,A,B,E,No Answer,C,C,D,C,C,False,False,True,False,False
+valenciano,A) 3 B) 4 C) 5 D) 6 E) 7,Geometría y Figuras,D,2018,1,No Answer,C,D,A,B,A,C,B,A,A,A,True,True,True,False,True
+valenciano,A) 25 B) 26 C) 28 D) 30 E) 35,Álgebra y Aritmética Visual,D,2018,1,D,D,B,A,C,D,D,D,D,B,D,False,True,True,True,False
+valenciano,A) 16 B) 14 C) 12 D) 10 E) 8,Geometría y Figuras,D,2018,1,D,B,A,A,D,No Answer,B,B,A,C,C,True,False,True,True,False
+valenciano,A) B) C) D) E),Geometría y Figuras,E,2018,2,B,B,No Answer,E,D,B,B,B,B,A,A,False,False,False,False,False
+valenciano,A) 6 B) 7 C) 12 D) 16 E) 22,Geometría y Figuras,D,2018,2,No Answer,No Answer,E,A,A,No Answer,D,D,C,E,E,False,False,False,False,False
+valenciano,A) B) C) D) E),Patrones y Secuencias,B,2018,2,D,E,A,A,E,B,E,C,D,A,A,True,True,True,True,True
+valenciano,A) 7 B) 8 C) 11 D) 13 E) 15,Álgebra y Aritmética Visual,D,2018,2,C,No Answer,No Answer,No Answer,D,C,C,D,C,C,C,False,True,True,True,False
+valenciano,A) 2 B) 4 C) 5 D) 6 E) 7,Geometría y Figuras,D,2018,2,D,D,A,B,No Answer,D,D,D,C,B,B,False,False,False,False,False
+valenciano,A) 21 B) 22 C) 25 D) 26 E) 27,Geometría y Figuras,B,2018,2,B,No Answer,No Answer,A,C,No Answer,D,A,A,A,A,False,False,False,False,False
+valenciano,A) 5 B) 9 C) 12 D) 15 E) 18,Geometría y Figuras,B,2018,2,D,B,D,A,E,D,B,No Answer,B,A,A,False,False,False,False,False
+valenciano,"A) 1, 3, 6 B) 2, 2, 6 C) 1, 4, 5 D) 2, 3, 5 E) 3, 3, 4",Combinatoria y Probabilidad,D,2018,2,C,No Answer,No Answer,E,C,D,C,A,A,C,C,False,False,True,False,False
+valenciano,A) 1 B) 3 C) 6 D) 9 E) 12,Combinatoria y Probabilidad,C,2018,2,C,E,A,E,C,C,C,C,C,C,C,False,True,True,False,False
+valenciano,A) A B) B C) C D) D E) E,Álgebra y Aritmética Visual,B,2018,2,E,C,A,A,E,C,B,D,A,C,C,False,False,True,True,False
+valenciano,A) 16 B) 20 C) 24 D) 28 E) 32,Geometría y Figuras,E,2018,3,E,E,A,A,A,E,E,E,E,E,E,False,False,False,True,True
+valenciano,A) 8 B) 10 C) 12 D) 14 E) 16,Álgebra y Aritmética Visual,C,2018,3,C,No Answer,No Answer,No Answer,No Answer,No Answer,C,A,E,A,E,False,False,False,False,False
+valenciano,A) 24 cm B) 8 cm C) 32 cm D) 48 cm E) No es pot determinar.,Geometría y Figuras,C,2018,3,C,C,A,A,E,D,C,C,C,E,E,False,False,False,False,
+valenciano,A) 4 B) 1 C) 5 D) 6 E) 2,Geometría y Figuras,A,2018,3,E,E,A,C,No Answer,E,A,B,E,A,E,False,False,False,False,False
+valenciano,A) 50 cm B) 45 cm C) 40 cm D) 35 cm E) No es pot determinar només amb aquestes dades.,Patrones y Secuencias,C,2018,3,A,A,A,No Answer,A,E,E,C,A,E,E,False,False,False,False,
+valenciano,A) 4(7 − π) B) 4(8 − π) C) 5(7 − π) D) 6(8 − π) E) 8(6 − π),Geometría y Figuras,A,2018,3,B,D,A,A,E,No Answer,A,E,A,A,B,False,False,False,False,
+valenciano,A) 90 B) 95 C) 105 D) 120 E) 135,Álgebra y Aritmética Visual,C,2018,3,C,No Answer,A,No Answer,C,D,C,C,A,C,C,False,False,True,False,False
+valenciano,A) 15 B) 19 C) 20 D) 25 E) 27,Álgebra y Aritmética Visual,B,2018,3,B,B,A,No Answer,E,D,D,C,B,C,C,False,False,True,False,False
+valenciano,A) 2/3√3 B) √3/2 C) 3/2 D) 3/√3 E) Depèn de la mesura del costat de l’hexàgon inicial.,Geometría y Figuras,D,2018,3,D,No Answer,No Answer,No Answer,No Answer,A,D,A,D,D,D,False,False,True,True,True
+valenciano,A) 15° B) 30° C) 36° D) 45° E) No es pot calcular sense més dades.,Geometría y Figuras,C,2018,3,No Answer,E,A,E,D,C,B,C,C,D,D,False,False,False,False,False
+valenciano,A) 80 cm B) 75 cm C) 66 cm D) 54 cm E) 60 cm,Geometría y Figuras,E,2018,3,No Answer,No Answer,No Answer,C,D,A,E,No Answer,E,C,A,False,False,False,False,False
+valenciano,A) 150° B) 180° C) 270° D) 320° E) 220°,Álgebra y Aritmética Visual,C,2018,3,C,B,No Answer,C,E,C,B,B,B,B,B,False,False,False,False,False
+valenciano,A) 6 B) 11 C) 15 D) 16 E) 17,Geometría y Figuras,E,2018,3,No Answer,D,B,A,E,E,E,E,E,A,B,False,False,False,False,False
+valenciano,A) 4(7 − π) B) 4(8 − π) C) 5(7 − π) D) 6(8 − π) E) 6(9 − π),Geometría y Figuras,A,2018,4,C,B,A,A,B,E,B,E,A,A,A,False,False,False,False,False
+valenciano,A) 12 + π cm B) 12 + 2π cm C) 24 cm D) 24 − π cm E) 12 + 4π cm,Geometría y Figuras,B,2018,4,B,B,A,A,C,E,B,B,E,A,A,True,False,False,False,False
+valenciano,A) 12 B) 24 C) 48 D) 60 E) 72,Álgebra y Aritmética Visual,C,2018,4,C,C,A,A,B,E,C,C,D,D,C,False,False,False,False,False
+valenciano,A) 25π/4 cm² B) 20 cm² C) 50 − 25π/4 cm² D) 25 cm² E) 5 cm²,Geometría y Figuras,D,2018,4,C,D,A,A,C,C,C,C,C,C,C,False,False,False,False,False
+valenciano,"A) 26 cm² B) 25 cm² C) 22,5 cm² D) 21,5 cm² E) 21 cm²",Geometría y Figuras,B,2018,4,No Answer,B,A,B,No Answer,D,E,A,E,B,B,False,False,False,False,False
+valenciano,A) 6 B) 8 C) 10 D) 12 E) 14,Patrones y Secuencias,D,2018,4,B,B,No Answer,A,A,D,A,B,A,E,E,False,False,False,False,True
+valenciano,A) 6 B) 7 C) 8 D) 12 E) 15,Geometría y Figuras,E,2018,4,E,E,A,No Answer,E,E,E,B,B,D,E,False,False,False,True,True
+valenciano,A) 170/21 B) 170/27 C) 170/29 D) 168/27 E) 168/29,Geometría y Figuras,E,2018,4,E,E,No Answer,A,A,D,E,D,D,D,D,False,False,False,False,False
+valenciano,A) 24/π cm B) 8/π cm C) 32/π cm D) 48/π cm E) No es pot determinar.,Álgebra y Aritmética Visual,C,2018,4,C,C,D,No Answer,E,C,C,D,C,E,E,False,False,False,False,
+valenciano,A) √11 B) √12 C) √13 D) √14 E) √15,Álgebra y Aritmética Visual,E,2018,6,E,No Answer,No Answer,A,C,C,B,C,E,A,A,False,False,False,False,False
+valenciano,A) 1 + √2/8 B) 1 + √2/4 C) 2 + √2/8 D) 2 + √2/4 E) 2 + 3√2/8,Geometría y Figuras,C,2018,6,A,No Answer,A,No Answer,C,E,B,C,D,E,E,False,False,False,False,False
+valenciano,A) 0 B) 1 C) 2 D) 2 o 1 E) És impossible de determinar.,Lógica y Razonamiento Visual,A,2018,6,No Answer,D,No Answer,No Answer,E,C,B,C,B,B,B,False,True,False,False,False
+valenciano,A) Cap dels punts és del quadrant I. B) Cap dels punts és del quadrant II. C) Cap dels punts és del quadrant III. D) Cap dels punts és del quadrant IV. E) Hi ha punts en els quatre quadrants.,Patrones y Secuencias,C,2018,6,A,E,A,A,D,E,B,A,E,E,A,False,False,False,False,False
+valenciano,A) √2 + 1 B) √2 C) 2 D) 3√2/2 E) 2√2,Geometría y Figuras,A,2018,6,No Answer,E,A,A,E,B,A,A,B,A,B,False,False,False,False,False
+valenciano,A) Només l'(1) B) Només el (2) C) Només el (3) D) L'(1) i el (3) però no el (2) E) El (2) i el (3) però no l'(1),Álgebra y Aritmética Visual,B,2018,6,A,No Answer,A,A,No Answer,E,E,E,E,C,C,False,False,False,False,False
+valenciano,A) √2 − 1 B) 1/2 C) √5 − 2 D) 1/3 E) (√2 + 1)/5,Geometría y Figuras,A,2018,6,A,A,D,A,A,D,A,A,C,B,B,False,False,False,False,False
+valenciano,A) π B) 3π/2 C) 4√3 − π D) π/2 + √3 E) 2π − 3√3,Geometría y Figuras,E,2018,6,E,E,A,No Answer,D,No Answer,E,E,A,C,E,False,False,False,False,False
+valenciano,A) 2 cm B) 5 cm C) 4 cm D) 3 cm E) 6 cm,Geometría y Figuras,D,2018,6,D,E,A,No Answer,E,No Answer,D,D,E,E,E,False,False,True,False,True
+valenciano,A) 5 B) 2 C) 8 D) 3 E) Tots han de ser iguals.,Combinatoria y Probabilidad,D,2018,6,B,A,A,E,C,C,D,D,B,D,D,False,False,False,False,False
+valenciano,A) 2 B) 3 C) 4 D) 5 E) 6,Geometría y Figuras,B,2019,1,B,No Answer,D,No Answer,A,A,A,B,B,A,A,True,,,,
+valenciano,A) 5 B) 3 C) 2 D) 1 E) És impossible.,Lógica y Razonamiento Visual,C,2019,1,No Answer,C,No Answer,No Answer,D,B,C,C,D,C,C,False,False,True,False,True
+valenciano,A) 45° B) 30° C) 60° D) 20° E) 35°,Geometría y Figuras,B,2019,1,C,B,A,C,B,B,C,C,B,B,B,False,False,False,False,False
+valenciano,A) 13 B) 14 C) 15 D) 16 E) 17,Álgebra y Aritmética Visual,D,2019,1,E,B,No Answer,No Answer,No Answer,E,C,C,B,D,C,False,False,True,True,True
+valenciano,A) Només hi pot anar el 0. B) Només hi pot anar l'1. C) Només hi pot anar el 2. D) Hi poden anar el 0 o l'1. E) Hi poden anar el 0 o el 2,Álgebra y Aritmética Visual,D,2019,1,No Answer,D,E,A,C,C,A,A,A,C,D,True,True,True,True,True
+valenciano,A) [Opció A] B) [Opció B] C) [Opció C] D) [Opció D] E) [Opció E],Patrones y Secuencias,B,2019,1,B,B,B,No Answer,C,E,E,E,E,A,A,True,True,True,True,True
+valenciano,A) 1 és groc i 3 és verd B) 1 és blau i 2 és verd C) 1 i 3 són verds D) 5 és verd i 2 és groc E) 1 i 3 són tots dos grocs,Geometría y Figuras,E,2019,1,D,A,No Answer,C,D,B,B,D,E,E,E,False,False,False,False,False
+valenciano,A) 4 B) 5 C) 6 D) 3 E) 8,Patrones y Secuencias,A,2019,1,A,A,D,No Answer,A,C,B,C,A,B,B,False,False,False,False,False
+valenciano,A) [Opció A] B) [Opció B] C) [Opció C] D) [Opció D] E) [Opció E],Patrones y Secuencias,C,2019,1,E,C,No Answer,C,E,E,C,C,E,C,C,True,True,True,True,True
+valenciano,A) 3 B) 4 C) 5 D) 6 E) 8,Geometría y Figuras,B,2019,1,B,E,No Answer,C,E,E,B,E,B,,,,,,,
+valenciano,A) 20 B) 0 C) 2 D) 10 E) 11,Álgebra y Aritmética Visual,D,2019,1,A,A,A,No Answer,E,A,A,A,B,D,D,False,False,False,True,False
+valenciano,A) 12 B) 13 C) 21 D) 22 E) 23,Combinatoria y Probabilidad,D,2019,1,E,E,C,A,C,No Answer,D,D,B,A,A,False,False,False,False,False
+valenciano,A) 45° B) 25° C) 30° D) 20° E) 35°,Geometría y Figuras,C,2019,1,C,C,A,A,D,C,C,C,C,B,B,False,False,False,False,False
+valenciano,A) 600 g B) 800 g C) 1.200 g D) 1.600 g E) 2.000 g,Álgebra y Aritmética Visual,D,2019,1,D,B,A,D,D,C,D,B,C,D,D,False,False,False,True,False
+valenciano,A) [Opció A] B) [Opció B] C) [Opció C] D) [Opció D] E) [Opció E],Geometría y Figuras,B,2019,1,C,E,A,E,D,B,D,A,A,A,A,False,False,False,False,False
+valenciano,A) 51 B) 317 C) 51 D) 317 E) 307,Patrones y Secuencias,C,2019,2,D,E,No Answer,No Answer,B,E,C,A,No Answer,A,A,True,True,True,True,True
+valenciano,A) 18 B) 35 C) 36 D) 39 E) 58,Geometría y Figuras,D,2019,2,D,C,No Answer,A,E,A,D,D,E,A,A,False,False,False,False,False
+valenciano,A) Mig litre B) 1 litre C) 2 litres D) 4 litres E) Una altra quantitat,Geometría y Figuras,C,2019,2,C,C,A,A,B,C,C,C,C,C,C,False,False,True,True,False
+valenciano,A) 38 h B) 26 h C) 36 h D) 24 h E) 145 h,Álgebra y Aritmética Visual,B,2019,2,B,No Answer,No Answer,No Answer,E,D,C,C,B,B,B,True,True,True,False,False
+valenciano,A) 5 B) 4 C) 3 D) 2 E) 1,Geometría y Figuras,C,2019,2,A,A,A,A,No Answer,C,C,C,D,C,C,False,True,True,True,False
+valenciano,A) 6 B) 8 C) 9 D) 12 E) 16,Álgebra y Aritmética Visual,C,2019,2,No Answer,E,A,C,E,B,D,E,B,C,C,False,False,True,False,True
+valenciano,"A) Un B) En uns casos un, en altres casos dos C) Dos D) En uns casos dos, en altres casos tres E) En uns casos tres, en altres casos quatre",Patrones y Secuencias,C,2019,2,No Answer,B,C,E,A,E,D,D,E,B,B,False,False,False,False,False
+valenciano,A) B) C) D) E),Geometría y Figuras,D,2019,2,C,E,A,D,No Answer,A,A,B,B,A,A,True,True,True,False,True
+valenciano,A) 1/4 B) 1/2 C) 2/3 D) 3/4 E) 2/5,Geometría y Figuras,D,2019,2,D,D,A,A,E,C,B,No Answer,B,B,B,False,True,False,False,False
+valenciano,A) De dos B) De tres C) De sis D) De nou E) De deu,Combinatoria y Probabilidad,E,2019,2,A,A,No Answer,A,C,E,B,C,E,E,E,True,,,,True
+valenciano,A) 3 B) 4 C) 5 D) 6 E) 7,Lógica y Razonamiento Visual,B,2019,2,B,B,A,No Answer,E,No Answer,B,B,A,B,C,False,True,True,False,False
+valenciano,A) 30 cm B) 36 cm C) 42 cm D) 48 cm E) 54 cm,Geometría y Figuras,B,2019,2,B,B,A,E,D,B,B,C,B,C,C,False,False,True,True,False
+valenciano,A) 3 B) 5/3 C) √3 D) 2 E) 1 + √3,Geometría y Figuras,D,2019,2,E,D,A,A,D,E,D,D,E,D,D,False,False,True,True,True
+valenciano,A) 16 B) 25 C) 36 D) 49 E) 64,Geometría y Figuras,D,2019,2,D,D,C,A,A,C,C,D,A,C,C,False,False,True,True,True
+valenciano,A) 5 B) 7 C) 9 D) 12 E) 16,Álgebra y Aritmética Visual,B,2019,2,E,B,A,A,No Answer,E,C,C,E,E,E,True,True,True,False,True
+valenciano,A) [Cloud with numbers] B) [Cloud with numbers] C) [Cloud with numbers] D) [Cloud with numbers] E) [Cloud with numbers],Álgebra y Aritmética Visual,C,2019,3,No Answer,A,B,E,C,C,C,C,C,A,A,True,False,False,False,False
+valenciano,"A) 5, 6 i 7 B) 4, 5 i 7 C) 4, 6 i 7 D) 4, 5 i 6 E) 3, 5 i 6",Geometría y Figuras,A,2019,3,C,A,No Answer,C,A,E,A,No Answer,A,D,D,False,False,False,True,False
+valenciano,A) 50° B) 60° C) 65° D) 70° E) 75°,Geometría y Figuras,B,2019,3,A,A,No Answer,A,E,No Answer,A,B,E,C,C,False,False,True,True,False
+valenciano,A) [Tile A] B) [Tile B] C) [Tile C] D) [Tile D] E) [Tile E],Geometría y Figuras,E,2019,3,C,E,A,A,E,E,C,D,A,A,A,False,False,False,False,False
+valenciano,A) 3 B) 4 C) 5 D) 6 E) 8,Álgebra y Aritmética Visual,C,2019,3,E,B,E,D,D,B,B,E,E,B,B,False,True,False,False,False
+valenciano,A) 10 cm² B) 12 cm² C) 14 cm² D) 15 cm² E) 21 cm²,Geometría y Figuras,B,2019,3,B,D,A,A,E,E,B,D,E,A,E,False,False,False,False,False
+valenciano,A) 30 B) 32 C) 34 D) 36 E) 38,Álgebra y Aritmética Visual,B,2019,3,B,B,A,No Answer,D,D,C,B,B,D,D,False,False,False,True,False
+valenciano,A) [Square A] B) [Square B] C) [Square C] D) [Square D] E) [Square E],Geometría y Figuras,A,2019,3,A,B,A,No Answer,No Answer,E,A,B,D,A,A,True,True,True,True,True
+valenciano,A) 3 B) 4 C) 5 D) 6 E) 7,Combinatoria y Probabilidad,C,2019,3,B,B,A,A,C,C,B,B,A,B,B,False,False,False,False,False
+valenciano,A) [Cube Net A] B) [Cube Net B] C) [Cube Net C] D) [Cube Net D] E) [Cube Net E],Patrones y Secuencias,E,2019,3,E,E,A,No Answer,D,A,C,B,A,A,A,True,True,True,True,True
+valenciano,A) El 5 i el 8 B) L'1 i el 6 C) El 2 i el 7 D) El 4 i el 5 E) El 3 i el 6,Patrones y Secuencias,A,2019,3,No Answer,C,No Answer,A,A,No Answer,C,C,A,D,D,False,False,False,True,False
+valenciano,A) 3/4 B) 5/8 C) 1/2 D) 7/16 E) 3/8,Geometría y Figuras,E,2019,3,No Answer,B,A,A,C,C,B,E,E,C,A,False,False,False,False,False
+valenciano,A) 15 B) 18 C) 20 D) 21 E) 22,Geometría y Figuras,C,2019,3,C,C,No Answer,A,E,C,C,C,C,B,B,False,True,False,False,False
+valenciano,A) [Diagram A] B) [Diagram B] C) [Diagram C] D) [Diagram D] E) [Diagram E],Patrones y Secuencias,D,2019,3,A,A,No Answer,No Answer,No Answer,No Answer,E,B,A,A,A,True,True,True,True,True
+valenciano,A) [Diagram A] B) [Diagram B] C) [Diagram C] D) [Diagram D] E) [Diagram E],Lógica y Razonamiento Visual,D,2019,3,A,A,A,C,A,B,A,D,D,A,A,False,False,False,False,False
+valenciano,A) 2/3 B) 2/5 C) 4/7 D) 4/9 E) 5/12,Geometría y Figuras,D,2019,3,No Answer,No Answer,No Answer,D,E,No Answer,D,No Answer,D,D,D,False,False,False,True,False
+valenciano,A) 3 B) 4 C) 5 D) 6 E) 8,Álgebra y Aritmética Visual,C,2019,4,E,B,No Answer,E,E,E,B,B,E,B,B,False,True,False,False,False
+valenciano,A) B) C) D) E),Álgebra y Aritmética Visual,C,2019,4,A,A,A,A,D,A,C,C,E,A,A,True,False,False,False,False
+valenciano,A) 30 B) 32 C) 34 D) 36 E) 38,Patrones y Secuencias,B,2019,4,B,C,B,A,C,C,C,B,B,D,D,False,False,False,True,True
+valenciano,A) B) C) D) E),Geometría y Figuras,B,2019,4,C,B,A,C,E,A,D,E,D,B,A,True,True,True,True,True
+valenciano,A) B) C) D) E),Álgebra y Aritmética Visual,E,2019,4,No Answer,A,No Answer,A,No Answer,B,E,C,E,A,A,True,True,True,True,False
+valenciano,A) 20° B) 30° C) 36° D) 40° E) 45°,Geometría y Figuras,C,2019,4,C,C,A,A,E,C,C,B,B,C,C,False,True,True,False,True
+valenciano,A) 10πR B) 5πR C) 2πR√3 D) 2πR√3 E) 4πR,Geometría y Figuras,A,2019,4,E,A,A,A,D,D,B,C,B,E,E,False,False,False,False,True
+valenciano,A) 1:2 B) 1:3 C) 1:4 D) 2:3 E) 2:9,Álgebra y Aritmética Visual,E,2019,4,A,B,No Answer,A,A,No Answer,A,B,A,B,B,False,True,True,False,False
+valenciano,"A) 1,5 m B) 2 m C) 2,5 m D) 3 m E) Més de 3 metres",Geometría y Figuras,C,2019,4,B,C,A,E,No Answer,No Answer,C,C,E,E,E,False,False,False,False,False
+valenciano,A) √60 B) 18 C) 50 D) 34 E) 68,Geometría y Figuras,B,2019,4,No Answer,D,B,No Answer,D,C,C,A,E,A,A,False,False,False,False,False
+valenciano,A) 6 B) 7 C) 8 D) 9 E) 10,Combinatoria y Probabilidad,E,2019,4,No Answer,C,No Answer,A,D,No Answer,D,C,E,E,E,True,True,True,True,True
+valenciano,"A) 5, 6 i 7 B) 4, 5 i 7 C) 4, 6 i 7 D) 4, 5 i 6 E) 3, 5 i 6",Álgebra y Aritmética Visual,A,2019,4,No Answer,C,A,A,D,No Answer,A,No Answer,A,D,D,False,False,False,True,False
+valenciano,A) 4π km B) 5π km C) 8π km D) 10π km E) 13π km,Geometría y Figuras,D,2019,4,D,D,A,C,C,D,D,D,D,D,D,False,False,True,True,False
+valenciano,A) 10 cm² B) 12 cm² C) 14 cm² D) 15 cm² E) 21 cm²,Geometría y Figuras,B,2019,4,No Answer,A,A,No Answer,No Answer,A,D,B,E,E,D,False,False,False,False,False
+valenciano,A) La superfície de la part de sorra és la meitat que la de gespa. B) Totes dues superfícies tenen la mateixa àrea. C) Hi ha 100 m² més de gespa que de sorra. D) Hi ha 200 m² més de gespa que de sorra. E) Hi ha 250 m² més de gespa que de sorra.,Geometría y Figuras,D,2019,4,D,D,A,C,D,No Answer,D,D,E,E,E,False,False,False,False,False
+valenciano,A) AMN B) BMN C) CMN D) DMN E) Els quatre triangles tenen la mateixa àrea.,Geometría y Figuras,E,2019,4,B,C,D,No Answer,E,C,C,E,E,B,E,False,True,False,False,True
+valenciano,"A) 0, 2 i 2 B) 1, 2 i 9 C) 2, 4 i 9 D) 2, 7 i 8 E) 5, 7 i 8",Álgebra y Aritmética Visual,B,2019,5,A,No Answer,A,A,No Answer,D,E,C,E,D,D,True,True,True,True,True
+valenciano,A) 1 : 3 B) 1 : 4 C) 2 : 7 D) 3 : 10 E) 4 : 15,Geometría y Figuras,E,2019,5,E,No Answer,A,A,D,C,D,D,E,E,E,False,False,False,False,False
+valenciano,A) L'1 B) El 2 C) El 3 D) El 4 E) El 5,Patrones y Secuencias,E,2019,5,E,E,B,No Answer,E,E,B,C,E,D,D,False,False,False,True,False
+valenciano,A) [Option A] B) [Option B] C) [Option C] D) [Option D] E) [Option E],Geometría y Figuras,C,2019,5,D,E,No Answer,A,A,No Answer,C,C,E,E,E,False,False,False,False,False
+valenciano,A) 3/4 B) 5/8 C) 1/2 D) 7/16 E) 3/8,Geometría y Figuras,E,2019,5,E,D,No Answer,A,C,D,D,E,C,C,C,False,False,False,False,False
+valenciano,A) 10πR/3 B) 5πR/3 C) 2πR√3/3 D) 2πR√3 E) 4πR,Geometría y Figuras,A,2019,5,A,B,B,A,E,No Answer,E,A,E,E,E,False,False,False,False,True
+valenciano,A) 1 B) 9/8 C) 8/7 D) 7/6 E) 6/5,Álgebra y Aritmética Visual,E,2019,5,A,D,C,A,D,No Answer,B,E,B,B,B,False,True,True,False,False
+valenciano,A) 1 B) 2 C) 4 D) 8 E) 12,Geometría y Figuras,A,2019,5,A,A,No Answer,A,E,C,E,C,C,A,E,False,False,False,False,False
+valenciano,A) 1 B) 2 C) 3 D) 4 E) 5,Combinatoria y Probabilidad,C,2019,5,B,B,No Answer,C,No Answer,C,C,C,E,C,C,False,False,True,False,True
+valenciano,A) [Option A] B) [Option B] C) [Option C] D) [Option D] E) [Option E],Álgebra y Aritmética Visual,E,2019,5,D,D,No Answer,No Answer,C,D,B,D,D,B,B,False,True,True,False,False
+valenciano,A) [Option A] B) [Option B] C) [Option C] D) [Option D] E) [Option E],Geometría y Figuras,D,2019,5,A,A,No Answer,A,D,E,D,B,E,A,A,True,False,False,False,False
+valenciano,A) α = β B) 2α + β = 90° C) α + β = 60° D) 2β + α = 90° E) α + β = 45°,Álgebra y Aritmética Visual,B,2019,5,No Answer,D,B,A,C,B,B,D,A,C,C,False,False,True,False,False
+valenciano,A) [Option A] B) [Option B] C) [Option C] D) [Option D] E) [Option E],Álgebra y Aritmética Visual,A,2019,5,No Answer,C,A,No Answer,E,A,E,C,D,A,A,True,True,True,True,True
+valenciano,A) 1 : 2 B) 2 : 3 C) 2 : 5 D) 3 : 7 E) 4 : 9,Geometría y Figuras,A,2019,6,A,A,E,A,E,B,B,D,B,A,A,True,True,False,False,False
+valenciano,A) 160 m³ B) 180 m³ C) 200 m³ D) 220 m³ E) 240 m³,Geometría y Figuras,E,2019,6,E,B,No Answer,No Answer,E,E,E,No Answer,B,E,E,False,False,False,False,True
+valenciano,A) 24 cm B) 12 cm C) 8 cm D) 6 cm E) 24/5 cm,Álgebra y Aritmética Visual,D,2019,6,C,B,E,B,A,A,C,C,A,B,B,False,True,True,True,False
+valenciano,A) √(ab) B) 1/2 a² C) 1/2 b² D) 1/4 (a² + b²) E) 1/2 (a² + b²),Álgebra y Aritmética Visual,B,2019,6,No Answer,E,No Answer,B,E,D,C,No Answer,D,E,E,False,False,False,False,False
+valenciano,A) 6 i 6 B) 3 i 5 C) 4 i 5 D) 4 i 6 E) 5 i 6,Álgebra y Aritmética Visual,E,2019,6,A,A,A,No Answer,E,C,E,E,A,A,A,False,False,False,False,False
+valenciano,A) 18 B) 19 C) 20 D) 21 E) 22,Álgebra y Aritmética Visual,C,2019,6,No Answer,No Answer,No Answer,B,D,A,E,No Answer,A,C,B,False,False,False,False,False
+valenciano,A) 3√2 B) 7√2/2 C) 11/2 D) 5√2 E) 5,Geometría y Figuras,E,2019,6,C,No Answer,A,No Answer,D,E,B,C,E,A,A,True,False,False,,False
+valenciano,A) B) C) D) E),Geometría y Figuras,E,2019,6,C,E,No Answer,A,E,C,A,A,E,E,E,True,True,True,True,True
+valenciano,A) 1 B) 2 C) 3 D) 4 E) 5,Geometría y Figuras,C,2019,6,No Answer,D,A,A,E,E,D,C,B,D,D,False,False,False,True,False
+valenciano,A) B) C) D) E),Patrones y Secuencias,D,2019,6,No Answer,A,A,A,A,B,D,C,E,B,B,False,True,False,True,True
+valenciano,"A) 1, 4 i 7 B) 1, 5 i 7 C) 3, 3 i 3 D) 4, 5 i 6 E) 4, 5 i 7",Álgebra y Aritmética Visual,B,2019,6,B,E,A,A,No Answer,C,C,No Answer,E,E,E,True,True,True,True,True
+valenciano,A) 8 B) 9 C) 24 D) 72 E) 128,Álgebra y Aritmética Visual,D,2023,1,No Answer,No Answer,C,A,D,D,E,B,E,A,E,False,False,False,False,False
+valenciano,A) A B) B C) C D) D E) No és possible saber-ho,Lógica y Razonamiento Visual,B,2023,1,C,E,A,E,E,B,C,E,C,E,E,False,False,False,False,False
+valenciano,A) 4 B) 6 C) 8 D) 12 E) 24,Geometría y Figuras,B,2023,1,B,A,A,No Answer,D,No Answer,B,B,B,C,C,False,False,True,True,False
+valenciano,A) 7 cm² B) 8 cm² C) 9 cm² D) 10 cm² E) 11 cm²,Geometría y Figuras,C,2023,1,C,No Answer,A,No Answer,E,E,E,C,E,D,D,False,False,False,False,False
+valenciano,A) [Option A] B) [Option B] C) [Option C] D) [Option D] E) [Option E],Lógica y Razonamiento Visual,D,2023,1,D,No Answer,C,A,E,E,E,A,C,D,D,False,True,True,True,False
+valenciano,A) 1 B) 1 o 2 C) 3 D) 4 E) 5,Álgebra y Aritmética Visual,B,2023,1,No Answer,D,A,C,D,E,D,C,D,E,B,False,False,False,False,False
+valenciano,A) [Option A] B) [Option B] C) [Option C] D) [Option D] E) [Option E],Geometría y Figuras,D,2023,1,A,E,No Answer,No Answer,E,D,E,C,D,A,D,True,True,True,True,True
+valenciano,A) 1 B) 3 C) 4 D) 5 E) 6,Lógica y Razonamiento Visual,C,2023,2,C,E,E,No Answer,E,C,E,C,C,E,E,False,False,False,False,False
+valenciano,A) Rectangle B) Parallelogram C) Quadrat D) Trapezi E) Tots els quadrilàters anteriors són a la imatge.,Geometría y Figuras,E,2023,2,No Answer,B,A,A,No Answer,No Answer,B,B,B,E,C,False,False,False,False,False
+valenciano,A) 0 B) 1 C) 2 D) 3 E) 4,Lógica y Razonamiento Visual,C,2023,2,C,B,A,B,No Answer,C,A,B,C,C,C,False,True,True,False,False
+valenciano,A) 5 m² B) 9 m² C) 10 m² D) 15 m² E) 18 m²,Geometría y Figuras,C,2023,2,D,D,C,A,B,D,D,B,C,E,D,False,False,False,False,False
+valenciano,A) 6 B) 10 C) 12 D) 14 E) 15,Geometría y Figuras,C,2023,2,A,D,A,A,A,C,A,A,A,A,E,False,False,False,False,False
+valenciano,A) 10 cm B) 8 cm C) 6 cm D) 5 cm E) 12 cm,Geometría y Figuras,B,2023,2,No Answer,B,No Answer,A,No Answer,No Answer,B,B,B,C,C,False,False,True,True,False
+valenciano,A) 25 B) 26 C) 27 D) 33 E) una altra resposta,Geometría y Figuras,C,2023,2,C,C,A,No Answer,A,E,C,B,C,B,C,False,True,True,False,False
+valenciano,A) 12 cm B) 4 + 2√3 cm C) 8 cm D) 10√10 cm E) Depèn de la localització de D,Geometría y Figuras,A,2023,2,A,A,A,No Answer,C,B,C,C,C,E,E,False,False,False,False,False
+valenciano,A) 8 B) 10 C) 12 D) 15 E) 16,Geometría y Figuras,A,2023,2,A,No Answer,A,E,C,No Answer,E,No Answer,E,B,B,False,False,False,False,False
+valenciano,A) 35 B) 38 C) 40 D) 41 E) 42,Combinatoria y Probabilidad,E,2023,2,No Answer,E,A,E,C,E,A,C,E,B,B,False,False,False,False,False
+valenciano,A) 8 cm² B) 9 cm² C) 24 cm² D) 72 cm² E) 128 cm²,Geometría y Figuras,D,2023,2,A,No Answer,A,E,No Answer,E,D,No Answer,E,A,A,False,False,False,False,False
+valenciano,A) 5 B) 6 C) 7 D) 8 E) 9,Patrones y Secuencias,B,2023,2,C,B,A,A,E,C,D,C,A,C,C,False,False,False,False,False
+valenciano,A) 15° B) 30° C) 45° D) 60° E) 75°,Geometría y Figuras,B,2023,3,A,A,A,C,B,B,E,B,B,C,B,False,False,False,False,False
+valenciano,A) 0 B) 1 C) 2 D) 3 E) 9,Álgebra y Aritmética Visual,E,2023,3,No Answer,D,No Answer,No Answer,E,C,B,B,B,A,A,False,False,False,False,False
+valenciano,A) 7 cm² B) 8 cm² C) 9 cm² D) 10 cm² E) 11 cm²,Geometría y Figuras,C,2023,3,A,C,D,A,No Answer,E,E,No Answer,E,E,E,False,False,False,False,False
+valenciano,A) 505 B) 606 C) 303 D) 570 E) 594,Geometría y Figuras,E,2023,3,E,E,A,E,E,E,E,No Answer,D,D,D,False,False,False,False,False
+valenciano,A) [Option A] B) [Option B] C) [Option C] D) [Option D] E) [Option E],Geometría y Figuras,D,2023,3,No Answer,D,D,D,C,E,E,D,B,D,D,False,True,True,True,True
+valenciano,"A) 6 cm B) 8 cm C) 8,6 cm D) 9 cm E) 12 cm",Geometría y Figuras,B,2023,3,B,E,A,A,E,A,D,D,E,A,A,False,False,False,False,False
+valenciano,A) 3 B) 5/3 C) 2 D) 3/2 E) 5/2,Combinatoria y Probabilidad,A,2023,3,A,A,A,A,C,C,C,No Answer,D,C,C,False,False,False,False,False
+valenciano,A) 10 cm² B) 20 cm² C) 24 cm² D) 48 cm² E) 128 cm²,Combinatoria y Probabilidad,B,2023,3,B,B,No Answer,No Answer,D,C,B,No Answer,B,D,C,False,False,False,True,False
+valenciano,A) −200 B) −120 C) −90 D) −48 E) −15,Álgebra y Aritmética Visual,B,2023,3,No Answer,A,A,A,No Answer,C,D,A,A,A,A,False,False,False,False,False
+valenciano,A) 12 B) 15 C) 16 D) 20 E) 25,Geometría y Figuras,D,2023,4,D,D,B,A,B,B,D,D,D,D,D,False,False,False,True,True
+valenciano,A) No es pot aconseguir B) 1 valor C) 2 valors D) 4 valors E) Infinits valors,Álgebra y Aritmética Visual,B,2023,4,B,B,No Answer,A,E,No Answer,B,B,B,A,A,False,False,False,False,False
+valenciano,A) [Option A] B) [Option B] C) [Option C] D) [Option D] E) [Option E],Geometría y Figuras,D,2023,4,A,B,No Answer,A,C,B,B,D,E,B,B,False,True,False,False,False
+valenciano,"A) 7,5 B) 8 C) 8,5 D) 9 E) 9,5",Geometría y Figuras,B,2023,4,B,B,C,No Answer,No Answer,B,C,B,E,E,C,False,False,False,False,False
+valenciano,A) 0 B) 1 C) 3 D) 5 E) 9,Geometría y Figuras,E,2023,4,No Answer,A,No Answer,A,E,B,A,B,C,A,A,False,False,False,False,False
+valenciano,A) 1/3 B) 3/5 C) 1/2 D) 2/3 E) 2/5,Patrones y Secuencias,A,2023,4,A,A,No Answer,D,B,D,D,A,B,E,C,False,False,False,False,True
+valenciano,A) 25 B) 36 C) 49 D) 64 E) Són iguals,Combinatoria y Probabilidad,D,2023,4,D,D,A,A,No Answer,D,C,D,E,E,E,False,False,False,False,False
+valenciano,A) 8(π − 1) B) 6(2π − 1) C) 9π − 25 D) 9(π − 2) E) 6π/5,Geometría y Figuras,D,2023,4,D,No Answer,A,A,C,No Answer,D,D,C,D,D,False,False,False,True,False
+valenciano,A) 1/6 B) 1/5 C) 7/36 D) 3/16 E) 7/40,Geometría y Figuras,D,2023,4,E,E,A,No Answer,E,E,C,D,E,C,C,False,False,True,False,False
+valenciano,A) A B) B C) C D) D E) E,Geometría y Figuras,C,2023,4,C,B,B,No Answer,B,E,C,C,D,B,B,False,True,False,False,False
+valenciano,A) A B) B C) C D) D E) No es pot saber,Geometría y Figuras,D,2023,4,E,D,D,A,E,D,D,E,D,A,A,False,False,False,False,False
+valenciano,A) 45° B) 60° C) 66 2/3° D) 75° E) 90°,Geometría y Figuras,E,2023,5,E,E,A,A,E,E,A,E,B,D,D,False,False,False,True,False
+valenciano,A) 1/6 B) 1/5 C) 7/36 D) 3/16 E) 7/40,Combinatoria y Probabilidad,D,2023,5,D,D,A,A,No Answer,No Answer,D,E,E,A,A,False,False,False,False,False
+valenciano,A) 3 B) 4 C) 5 D) 6 E) 7,Geometría y Figuras,D,2023,5,B,A,No Answer,No Answer,D,D,D,D,A,B,B,False,True,True,False,True
+valenciano,"A) Si h = 1,5 cm. B) Si h = 2 cm. C) Si h = 2,5 cm. D) No és possible per a cap valor h. E) Aquesta igualtat d’àrees és certa per a qualsevol valor h.",Geometría y Figuras,B,2023,5,B,B,A,A,B,E,D,B,D,D,D,False,False,False,False,False
+valenciano,A) 1/2 B) √2 − 1 C) 1/√2 D) 1 E) 2 − √2,Geometría y Figuras,B,2023,5,D,No Answer,A,No Answer,No Answer,E,B,E,E,B,B,False,True,False,False,True
+valenciano,A) 5 B) 6 C) 2√7 D) 7 E) 8,Lógica y Razonamiento Visual,B,2023,5,B,B,A,A,B,No Answer,B,B,B,A,A,False,False,False,False,False
+valenciano,A) 43º B) 45º C) 47º D) 49º E) 51º,Álgebra y Aritmética Visual,C,2023,6,D,A,A,A,D,D,D,B,C,D,D,False,False,False,True,True
+valenciano,"A) Si h = 1,5 cm. B) Si h = 2 cm. C) Si h = 2,5 cm. D) No és possible per a cap valor h. E) Aquesta igualtat d’àrees és certa per a qualsevol valor h.",Geometría y Figuras,B,2023,6,B,E,No Answer,A,D,C,B,B,B,,,,,,,
+valenciano,A) 2π B) 4π C) π√2 D) 2√π^2 + 4 E) √2π^2 + 4,Geometría y Figuras,D,2023,6,D,D,E,No Answer,No Answer,D,D,D,D,,,,,,,
+valenciano,A) 1/2 B) √2 − 1 C) 1/√2 D) 1 E) 2 − √2,Geometría y Figuras,B,2023,6,B,E,A,B,E,B,A,E,E,,,,,,,
+valenciano,A) 75 m B) 150 m C) 180 m D) 225 m E) No es pot mesurar.,Geometría y Figuras,C,2023,6,No Answer,B,A,No Answer,A,A,B,C,A,B,B,False,True,True,False,False
+valenciano,A) 2√6 B) 4 C) 3√3 D) 5 E) 6,Geometría y Figuras,D,2023,6,D,No Answer,A,A,D,E,A,A,D,D,D,True,False,True,True,False
+valenciano,A) 880 B) 808 C) 0 D) 408 E) 804,Álgebra y Aritmética Visual,E,2024,1,B,No Answer,B,A,E,B,B,B,C,E,E,True,True,True,False,True
+valenciano,A) 3 B) 6 C) 12 D) 24 E) 48,Patrones y Secuencias,B,2024,1,C,C,A,A,D,No Answer,C,C,D,,,,,,,
+valenciano,A) En A B) En B C) En C D) En D E) En E,Geometría y Figuras,E,2024,1,No Answer,B,No Answer,A,E,C,C,E,B,A,A,True,True,,,True
+valenciano,A) B) C) D) E),Lógica y Razonamiento Visual,D,2024,1,D,B,A,No Answer,D,C,A,D,A,A,A,True,True,False,False,False
+valenciano,A) 20 cm2 B) 25 cm2 C) 30 cm2 D) 35 cm2 E) 40 cm2,Geometría y Figuras,B,2024,1,B,E,A,A,A,C,B,No Answer,B,E,E,,False,,,False
+valenciano,"A) 7 B) 7,5 C) 8 D) 8,2 E) 8,5",Álgebra y Aritmética Visual,C,2024,1,No Answer,No Answer,No Answer,C,D,No Answer,C,D,E,D,D,False,True,True,True,True
+valenciano,A) B) C) D) E),Combinatoria y Probabilidad,C,2024,1,A,A,A,A,A,No Answer,C,E,E,A,A,False,False,False,False,False
+valenciano,A) 1 B) 2 C) 3 D) 4 E) 5,Lógica y Razonamiento Visual,A,2024,1,B,E,A,No Answer,No Answer,C,E,C,B,B,B,False,True,True,False,False
+valenciano,"A) 17 cm B) 17,5 cm C) 18 cm D) 18,5 cm E) 19 cm",Geometría y Figuras,E,2024,1,No Answer,No Answer,D,A,E,D,B,C,No Answer,C,C,False,False,True,False,True
+valenciano,A) 18 cm2 B) 20 cm2 C) 24 cm2 D) 27 cm2 E) 30 cm2,Geometría y Figuras,B,2024,1,E,C,A,E,D,D,D,D,E,E,E,False,False,False,False,True
+valenciano,A) 125 B) 200 C) 250 D) 300 E) 375,Álgebra y Aritmética Visual,D,2024,1,D,D,No Answer,A,E,E,A,D,E,E,E,False,False,False,False,False
+valenciano,"A) Atown 2 km, Betown 9 km B) Atown 3 km, Betown 8 km C) Atown 5 km, Betown 6 km D) Atown 9 km, Betown 4 km E) Atown 8 km, Betown 3 km",Geometría y Figuras,D,2024,1,D,D,B,A,E,E,D,D,D,A,A,False,False,False,False,False
+valenciano,A) 12 B) 10 C) 8 D) 6 E) Es impossible,Combinatoria y Probabilidad,B,2024,1,No Answer,D,A,E,E,D,C,A,D,E,E,False,False,False,False,False
+valenciano,A) 144 cm B) 120 cm C) 104 cm D) 90 cm E) 72 cm,Geometría y Figuras,E,2024,1,E,E,A,A,A,E,E,No Answer,A,A,A,False,False,False,False,False
+valenciano,A) 17 B) 18 C) 19 D) 20 E) 21,Álgebra y Aritmética Visual,B,2024,1,No Answer,No Answer,No Answer,A,A,E,A,B,E,B,C,False,True,True,False,False
+valenciano,A) 81 B) 69 C) 77 D) 53 E) 60,Patrones y Secuencias,B,2024,1,No Answer,E,C,A,D,D,E,E,E,A,A,False,False,False,False,False
+valenciano,A) B) C) D) E),Lógica y Razonamiento Visual,E,2024,1,D,B,A,A,D,C,D,D,E,E,E,True,True,True,True,True
+valenciano,A) 808 B) 804 C) 480 D) 0 E) 880,Álgebra y Aritmética Visual,B,2024,2,No Answer,No Answer,A,A,D,No Answer,C,A,B,A,A,True,,,False,
+valenciano,A) 150 B) 200 C) 250 D) 300 E) 350,Lógica y Razonamiento Visual,C,2024,2,E,C,A,C,No Answer,D,D,E,C,C,C,True,True,True,True,False
+valenciano,A) A la zona A B) A la zona B C) A la zona C D) A la zona D E) A la zona E,Geometría y Figuras,B,2024,2,A,No Answer,A,D,C,E,D,D,D,D,D,False,False,False,False,False
+valenciano,"A) 25 cm B) 50 cm C) 75 cm D) 1 m E) 1,25 m",Geometría y Figuras,D,2024,2,D,D,E,D,D,D,D,D,D,E,A,False,False,False,False,True
+valenciano,A) B) C) D) E),Combinatoria y Probabilidad,E,2024,2,E,E,No Answer,No Answer,E,E,D,D,B,A,A,False,False,False,False,False
+valenciano,"A) 17 cm B) 18,5 cm C) 17,5 cm D) 18 cm E) 19 cm",Geometría y Figuras,E,2024,2,B,A,A,A,C,E,D,D,C,C,C,False,True,True,True,False
+valenciano,A) 4045 B) 4046 C) 4047 D) 4048 E) 4049,Patrones y Secuencias,C,2024,2,C,C,D,A,No Answer,C,C,C,B,C,C,False,False,False,False,False
+valenciano,A) 5 km B) 4 km C) 7 km D) 9 km E) 11 km,Geometría y Figuras,A,2024,2,A,B,A,D,E,E,A,B,E,B,B,False,True,True,True,False
+valenciano,A) B) C) D) E),Lógica y Razonamiento Visual,C,2024,2,E,A,No Answer,A,E,C,C,D,E,A,A,False,False,False,False,False
+valenciano,A) 3 cm2 B) 7/2 cm2 C) 11/2 cm2 D) 6 cm2 E) 4 cm2,Geometría y Figuras,E,2024,2,D,D,A,A,A,C,E,D,E,E,E,False,True,False,True,True
+valenciano,A) 60° B) 66° C) 72° D) 80° E) 88°,Geometría y Figuras,D,2024,2,No Answer,D,No Answer,A,E,D,D,No Answer,B,A,A,False,False,False,False,False
+valenciano,A) B) C) D) E),Geometría y Figuras,B,2024,2,No Answer,E,A,No Answer,No Answer,No Answer,E,C,E,A,A,False,False,False,False,False
+valenciano,A) 18 B) 19 C) 20 D) 21 E) 22,Geometría y Figuras,B,2024,2,C,No Answer,C,No Answer,D,C,B,A,B,B,C,False,False,False,False,False
+valenciano,A) 10×5 B) 4×3 C) 8×5 D) 12×7 E) 7×3,Combinatoria y Probabilidad,D,2024,2,B,No Answer,B,No Answer,D,B,A,D,E,A,E,False,False,False,False,False
+valenciano,A) 172 B) 150 C) 149 D) 136 E) 125,Geometría y Figuras,B,2024,2,B,B,No Answer,A,D,No Answer,B,No Answer,E,B,A,False,False,False,False,False
+valenciano,A) B) C) D) E),Lógica y Razonamiento Visual,D,2024,2,A,No Answer,A,A,D,D,C,E,E,A,A,True,True,True,True,True
+valenciano,A) 4 B) 7 C) 6 D) 3 E) 8,Lógica y Razonamiento Visual,D,2024,2,No Answer,C,No Answer,D,E,C,C,C,A,A,E,False,False,False,False,False
+valenciano,"A) 8,5 B) 7 C) 8 D) 8,2 E) 7,5",Geometría y Figuras,C,2024,2,No Answer,C,A,A,D,No Answer,E,C,C,D,D,True,False,False,True,False
+valenciano,"A) 1 i 4 B) 2, 3 i 5 C) 1, 4 i 5 D) 2 i 3 E) 1 i 3",Geometría y Figuras,E,2024,2,E,C,A,No Answer,C,D,A,C,B,B,C,False,True,True,False,False
+valenciano,A) 60 cm B) 68 cm C) 78 cm D) 88 cm E) 90 cm,Geometría y Figuras,C,2024,3,C,C,No Answer,No Answer,B,A,C,C,E,A,A,False,False,False,False,False
+valenciano,A) 5° B) 4° C) 3° D) 2° E) 1°,Geometría y Figuras,B,2024,3,B,B,A,No Answer,E,C,B,B,C,B,B,False,True,True,True,
+valenciano,A) B) C) D) E),Geometría y Figuras,A,2024,3,E,No Answer,No Answer,A,No Answer,C,B,E,A,A,A,True,True,True,False,True
+valenciano,A) 0 m2 B) 1 m2 C) 2 m2 D) 5 m2 E) 10 m2,Lógica y Razonamiento Visual,A,2024,3,A,A,No Answer,A,A,D,A,A,A,A,A,True,True,True,True,False
+valenciano,A) 18 B) 16 C) 14 D) 12 E) 10,Geometría y Figuras,A,2024,3,D,D,D,A,C,D,D,A,D,D,D,False,False,True,True,True
+valenciano,A) 8 B) 10 C) 12 D) 14 E) 16,Álgebra y Aritmética Visual,B,2024,3,B,No Answer,A,A,E,C,B,A,A,B,B,False,True,True,False,False
+valenciano,A) 1 000 B) 1 500 C) 3 000 D) 6 000 E) 9 000,Álgebra y Aritmética Visual,D,2024,3,D,D,No Answer,A,D,E,E,E,E,D,D,False,False,False,False,False
+valenciano,A) B) C) D) E),Lógica y Razonamiento Visual,C,2024,3,E,E,A,A,No Answer,B,C,C,B,A,A,True,True,True,True,True
+valenciano,A) Tom B) Al C) Pit D) Jim E) No ho podem saber amb seguretat.,Lógica y Razonamiento Visual,B,2024,3,C,No Answer,D,A,D,E,C,C,A,A,A,False,False,False,False,False
+valenciano,A) 9 B) 10 C) 14 D) 18 E) 19,Combinatoria y Probabilidad,A,2024,3,No Answer,No Answer,C,B,D,A,A,A,B,A,A,False,False,False,False,False
+valenciano,A) 2 B) 3 C) 4 D) 5 E) 6,Geometría y Figuras,E,2024,3,D,B,A,A,No Answer,C,B,C,E,D,D,True,False,False,True,False
+valenciano,A) 82 B) 92 C) 96 D) 108 E) 120,Geometría y Figuras,B,2024,3,C,C,No Answer,A,No Answer,C,C,E,A,E,E,False,False,False,False,False
+valenciano,A) 1 B) 4 C) 5 D) 6 E) 8,Álgebra y Aritmética Visual,D,2024,3,C,B,A,A,D,C,E,D,A,A,A,False,False,False,False,False
+valenciano,A) 60° B) 70° C) 75° D) 90° E) 120°,Geometría y Figuras,D,2024,3,D,C,No Answer,C,D,D,D,D,D,D,D,False,False,False,True,False
+valenciano,A) 20 % B) 25 % C) 30 % D) 40 % E) 50 %,Geometría y Figuras,E,2024,3,B,E,A,A,No Answer,E,E,B,E,E,E,False,False,False,False,False
+valenciano,A) 45 B) 47 C) 49 D) 58 E) 60,Combinatoria y Probabilidad,A,2024,3,No Answer,No Answer,C,A,D,No Answer,C,E,E,B,B,False,True,True,True,False
+valenciano,A) B) C) D) E),Lógica y Razonamiento Visual,B,2024,3,B,E,No Answer,A,E,No Answer,E,B,C,E,A,False,False,False,False,False
+valenciano,A) 8 B) 9 C) 11 D) 12 E) 15,Geometría y Figuras,D,2024,3,D,D,No Answer,No Answer,D,No Answer,D,D,D,A,A,True,False,False,False,False
+valenciano,A) 10 B) 11 C) 12 D) 13 E) 14,Álgebra y Aritmética Visual,D,2024,3,D,D,D,No Answer,E,A,B,D,C,A,E,False,False,False,False,False
+valenciano,A) B) C) D) E),Lógica y Razonamiento Visual,E,2024,4,No Answer,B,No Answer,A,E,A,C,D,A,,,,,,,
+valenciano,A) 18 B) 16 C) 14 D) 12 E) 10,Geometría y Figuras,A,2024,4,D,B,A,E,D,D,D,C,B,,,,,,,
+valenciano,A) 14 cm B) 15 cm C) 16 cm D) 17 cm E) 18 cm,Geometría y Figuras,B,2024,4,B,No Answer,No Answer,A,C,B,B,B,A,,,,,,,
+valenciano,A) 24π B) 30π C) 32π D) 36π E) 48π,Geometría y Figuras,E,2024,4,C,No Answer,A,A,E,E,B,C,B,A,E,False,False,False,False,False
+valenciano,A) 3 B) 4 C) 5 D) 6 E) 7,Geometría y Figuras,B,2024,4,B,C,E,No Answer,E,B,B,E,A,A,A,False,False,False,False,False
+valenciano,A) 105° B) 110° C) 115° D) 120° E) 125°,Geometría y Figuras,A,2024,4,No Answer,A,D,A,D,A,D,D,D,D,D,False,,,False,False
+valenciano,A) 18 cm2 B) 20 cm2 C) 24 cm2 D) 32 cm2 E) 36 cm2,Geometría y Figuras,B,2024,4,No Answer,E,A,D,No Answer,D,B,B,E,D,D,False,True,True,True,False
+valenciano,A) 82 B) 92 C) 96 D) 108 E) 120,Geometría y Figuras,B,2024,4,C,No Answer,No Answer,A,D,E,E,E,A,C,C,False,True,True,True,True
+valenciano,A) 3:1 B) 4:3 C) 6:5 D) 7:6 E) 9:7,Geometría y Figuras,D,2024,4,D,No Answer,A,No Answer,No Answer,D,D,D,D,D,D,False,False,True,True,False
+valenciano,A) 12 B) 24 C) 48 D) 96 E) 198,Combinatoria y Probabilidad,B,2024,4,C,D,A,E,E,A,C,C,B,B,B,False,True,False,False,False
+valenciano,A) 60° B) 70° C) 75° D) 90° E) 120°,Lógica y Razonamiento Visual,D,2024,4,No Answer,No Answer,No Answer,A,E,D,D,D,D,E,E,False,False,False,False,True
+valenciano,A) 20 B) 40 C) 80 D) 120 E) 480,Geometría y Figuras,B,2024,4,E,D,A,No Answer,No Answer,No Answer,D,D,E,E,E,False,False,False,False,False
+valenciano,A) 45 B) 47 C) 49 D) 58 E) 60,Geometría y Figuras,A,2024,4,D,D,B,No Answer,D,C,C,B,C,C,C,False,True,True,True,False
+valenciano,A) 5° B) 4° C) 3° D) 2° E) 1°,Geometría y Figuras,B,2024,4,B,B,No Answer,A,C,No Answer,B,B,A,B,B,False,True,True,True,True
+valenciano,A) 365 B) 31 C) 29 D) 23 E) 20,Lógica y Razonamiento Visual,D,2024,4,D,No Answer,A,B,D,E,D,E,D,D,D,True,True,True,True,True
+valenciano,A) 7 B) 9 C) 10 D) 11 E) 1,Geometría y Figuras,D,2024,4,C,D,A,No Answer,C,D,D,B,B,D,D,False,False,False,True,False
+valenciano,A) √2 B) √3 C) 2 D) 2√2 E) 2√3,Geometría y Figuras,B,2024,5,No Answer,C,A,A,D,B,E,No Answer,E,E,A,False,False,False,False,False
+valenciano,A) 12 B) 24 C) 48 D) 96 E) 198,Geometría y Figuras,B,2024,5,D,C,A,A,E,C,C,C,B,B,B,False,True,True,True,False
+valenciano,A) 3:1 B) 4:3 C) 6:5 D) 7:6 E) 9:7,Geometría y Figuras,D,2024,5,No Answer,No Answer,A,A,No Answer,D,D,D,D,D,D,False,False,False,True,False
+valenciano,A) 22 m B) 26 m C) 33 m D) 39 m E) 44 m,Geometría y Figuras,C,2024,5,C,C,A,A,C,C,A,D,E,C,C,False,False,True,True,True
+valenciano,A) 20 B) 40 C) 80 D) 120 E) 480,Álgebra y Aritmética Visual,B,2024,5,No Answer,No Answer,A,No Answer,E,No Answer,E,E,D,D,C,False,False,False,False,False
+valenciano,A) B) C) D) E),Álgebra y Aritmética Visual,E,2024,5,No Answer,E,A,No Answer,No Answer,E,E,C,C,A,A,True,True,False,False,
+valenciano,A) √5 B) 1 + √2 C) 5/2 D) 1 + √3 E) 2√2,Lógica y Razonamiento Visual,B,2024,5,A,A,A,A,D,B,B,D,A,E,E,False,False,False,False,False
+valenciano,A) 1 B) 2 C) 3 D) 4 E) 5,Lógica y Razonamiento Visual,C,2024,5,No Answer,C,No Answer,No Answer,D,A,B,B,A,C,D,False,False,True,True,False
+valenciano,A) 12 B) 9√2 C) 13 D) 10 E) Cap de les anteriors,Combinatoria y Probabilidad,D,2024,5,D,D,A,A,C,C,E,D,E,B,B,False,True,False,False,False
+valenciano,A) 7 B) 9 C) 10 D) 11 E) 15,Geometría y Figuras,D,2024,5,No Answer,D,A,E,C,E,D,E,E,D,E,,False,False,False,False
+valenciano,A) 4 B) 6 C) 8 D) 10 E) 12,Álgebra y Aritmética Visual,B,2024,5,B,A,No Answer,No Answer,E,E,C,A,E,A,A,False,False,False,False,False
+valenciano,A) 12 B) 24 C) 36 D) 40 E) 48,Lógica y Razonamiento Visual,C,2024,5,A,A,A,A,E,No Answer,C,A,C,C,C,True,True,True,False,False
+valenciano,A) 14 cm B) 15 cm C) 16 cm D) 17 cm E) 18 cm,Combinatoria y Probabilidad,B,2024,5,No Answer,C,A,D,A,E,C,A,E,D,D,False,False,False,True,True
+valenciano,A) 1/4 B) 1/3 C) 2/3 D) 3/4 E) 1/π,Álgebra y Aritmética Visual,B,2024,5,No Answer,B,A,A,E,No Answer,B,B,C,B,B,False,True,True,True,False
+valenciano,A) 8 B) 9 C) 10 D) 13 E) 19,Geometría y Figuras,D,2024,5,No Answer,D,D,A,A,D,B,D,B,C,C,False,False,False,False,False
+valenciano,A) 105° B) 110° C) 115° D) 120° E) 125°,Lógica y Razonamiento Visual,A,2024,5,A,D,A,E,E,D,A,B,D,C,C,False,False,False,False,False
+valenciano,A) B) C) D) E),Lógica y Razonamiento Visual,C,2024,6,A,No Answer,A,B,A,A,B,B,E,B,B,False,True,True,False,False
+valenciano,A) N = 1/2(M + P) B) N = M + P C) M = P D) N = 2/3(M + P) E) N = 3/5(M + P),Geometría y Figuras,B,2024,6,C,A,C,A,B,B,C,A,A,A,A,False,False,False,False,False
+valenciano,A) 19 B) 20 C) 21 D) 22 E) 23,Álgebra y Aritmética Visual,C,2024,6,No Answer,D,A,A,D,No Answer,D,D,D,C,D,False,False,True,True,False
+valenciano,A) 13 B) 12 C) 9√2 D) 10 E) Cap dels anteriors,Geometría y Figuras,D,2024,6,D,D,A,A,C,A,D,D,E,B,B,False,True,False,False,False
+valenciano,A) 9 B) 3π C) 6π − 9 D) 10π/3 E) 12,Geometría y Figuras,A,2024,6,E,A,A,E,No Answer,No Answer,C,C,C,,,,,,,
+valenciano,A) 1/2(a + b + c) B) √(a² + b² + c²) C) √((a + b)² + c²) D) √((b − a)² + c²) E) √(a² + ab + b² + c²),Álgebra y Aritmética Visual,C,2024,6,D,D,E,B,No Answer,E,B,C,C,,,,,,,
+valenciano,A) −23 B) −24 C) −25 D) −26 E) −27,Lógica y Razonamiento Visual,D,2024,6,No Answer,A,A,A,D,No Answer,E,B,E,,,,,,,
+valenciano,A) 6√2 B) 7√2 C) 10 D) 8 E) 6 + √2,Geometría y Figuras,B,2024,6,No Answer,A,A,A,C,E,A,A,E,,,,,,,
+valenciano,A) 24 B) 30 C) 36 D) 48 E) Cap dels anteriors,Combinatoria y Probabilidad,A,2024,6,No Answer,D,No Answer,A,C,D,A,C,C,,,,,,,
+valenciano,A) 8° B) 5° C) 10° D) 9° E) 12°,Geometría y Figuras,E,2024,6,E,E,No Answer,A,E,E,E,E,E,,,,,,,
+valenciano,A) B) C) D) E),Lógica y Razonamiento Visual,D,2024,6,D,E,A,C,D,D,C,D,C,,,,,,,
+valenciano,A) 3 B) 4 C) 5 D) 6 E) 7,Geometría y Figuras,C,2024,6,A,A,A,No Answer,E,D,B,B,B,,,,,,,

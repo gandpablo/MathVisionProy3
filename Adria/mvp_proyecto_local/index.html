@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MathVision AI</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="brand">
+        <div class="brand-mark" aria-hidden="true">
+          <svg viewBox="0 0 48 48" role="img">
+            <path d="M20.4 6.6c-3.3 0-6 2.4-6.4 5.6-3.6.3-6.4 3.3-6.4 7 0 1.1.3 2.2.7 3.1-2.2 1.5-3.7 4-3.7 6.8 0 4.3 3.3 7.8 7.5 8.2.8 2.9 3.4 5 6.5 5h3.2V6.6h-1.4Z" />
+            <path d="M27.6 6.6c3.3 0 6 2.4 6.4 5.6 3.6.3 6.4 3.3 6.4 7 0 1.1-.3 2.2-.7 3.1 2.2 1.5 3.7 4 3.7 6.8 0 4.3-3.3 7.8-7.5 8.2-.8 2.9-3.4 5-6.5 5h-3.2V6.6h1.4Z" />
+            <path d="M15.1 15.5c2.5.2 4.5 2.2 4.8 4.8M13 27.8c1.8-.3 3.5.3 4.7 1.6M19.6 34.4c-2.2.2-4.1-.7-5.3-2.2M32.9 15.5c-2.5.2-4.5 2.2-4.8 4.8M35 27.8c-1.8-.3-3.5.3-4.7 1.6M28.4 34.4c2.2.2 4.1-.7 5.3-2.2M24 10.8v31.5" />
+          </svg>
+        </div>
+        <div>
+          <h1>MathVision AI</h1>
+          <p>Tu asistente de razonamiento matemático visual</p>
+        </div>
+      </header>
+
+      <main class="workspace">
+        <section class="panel input-panel" aria-labelledby="input-title">
+          <h2 id="input-title">1. Introduce el problema</h2>
+
+          <div class="language-row" role="group" aria-label="Idioma del problema">
+            <span>Idioma</span>
+            <button class="language-button language-button-active" type="button" data-language="castellano">Castellano</button>
+            <button class="language-button" type="button" data-language="valenciano">Valenciano</button>
+            <button class="language-button" type="button" data-language="ingles">Inglés</button>
+            <button class="language-button" type="button" data-language="frances">Francés</button>
+          </div>
+
+          <div class="academic-row" role="group" aria-label="Nivel académico">
+            <span>Nivel</span>
+            <button class="academic-button" type="button" data-academic-level="primaria">Primaria</button>
+            <button class="academic-button academic-button-active" type="button" data-academic-level="eso_bachillerato">ESO/Bachillerato</button>
+            <button class="academic-button" type="button" data-academic-level="universidad">Universidad</button>
+          </div>
+
+          <input id="imageInput" type="file" accept="image/png,image/jpeg,image/jpg,image/webp" hidden />
+
+          <button class="dropzone" type="button" id="dropzone">
+            <span class="drop-icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24">
+                <path d="M12 3v12M7.5 7.5 12 3l4.5 4.5M5 15v3a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-3" />
+              </svg>
+            </span>
+            <span class="drop-main">Arrastra la imagen aquí</span>
+            <span class="drop-sub">o haz clic para seleccionar</span>
+            <span class="drop-formats">Formatos: PNG, JPG, JPEG, WEBP</span>
+          </button>
+
+          <article class="detected-card">
+            <div class="detected-title">
+              <span class="status-check" aria-hidden="true">
+                <svg viewBox="0 0 20 20">
+                  <path d="m5 10.3 3.1 3.1L15.4 6" />
+                </svg>
+              </span>
+              <strong>Imagen del problema</strong>
+            </div>
+            <div class="problem-preview empty-preview">
+              <span id="problemPreviewPlaceholder">Sin imagen seleccionada</span>
+              <img id="problemImagePreview" alt="" hidden />
+            </div>
+            <div class="solve-panel">
+              <p class="status-line" id="inputStatus">Sube una imagen para empezar.</p>
+              <button class="primary-action" type="button" id="solveButton" disabled>Resolver problema</button>
+            </div>
+          </article>
+        </section>
+
+        <div
+          class="column-resizer"
+          data-resizer="left"
+          role="separator"
+          aria-orientation="vertical"
+          aria-label="Ajustar anchura entre entrada y solución"
+        ></div>
+
+        <section class="panel solution-panel" aria-labelledby="solution-title">
+          <div class="section-title">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="m12 3 1.6 4.8L18.5 9l-4.9 1.2L12 15l-1.6-4.8L5.5 9l4.9-1.2L12 3ZM18.5 14.5l.8 2.4 2.4.8-2.4.8-.8 2.4-.8-2.4-2.4-.8 2.4-.8.8-2.4ZM5.5 15.4l.7 1.9 1.9.7-1.9.7-.7 1.9-.7-1.9-1.9-.7 1.9-.7.7-1.9Z" />
+            </svg>
+            <h2 id="solution-title">Solución del problema</h2>
+          </div>
+          <p class="status-line solution-status" id="solutionStatus">La solución aparecerá después de resolver.</p>
+
+          <article class="result-card">
+            <div>
+              <h3 id="finalAnswer">Respuesta final: pendiente</h3>
+              <h4>Resumen</h4>
+              <p id="summaryText">Todavía no hay una resolución generada.</p>
+            </div>
+            <span class="result-check" aria-hidden="true">
+              <svg viewBox="0 0 20 20">
+                <path d="m5 10.3 3.1 3.1L15.4 6" />
+              </svg>
+            </span>
+          </article>
+
+          <h3 class="reasoning-heading">Justificación por opción</h3>
+          <div class="option-list" id="optionJustifications">
+            <article class="option-card">
+              <strong>Opciones A-E</strong>
+              <p>El pipeline verificará cada opción por separado cuando resuelva el problema.</p>
+            </article>
+          </div>
+
+          <h3 class="reasoning-heading">Pasos del razonamiento</h3>
+
+          <ol class="reasoning-list" id="reasoningList">
+            <li>
+              <span class="step-number">1</span>
+              <div>
+                <p>Sube una imagen y pulsa “Resolver problema”.</p>
+              </div>
+            </li>
+          </ol>
+
+          <article class="visual-card diagnostics-card">
+            <h3>Clasificación y recortes</h3>
+            <p id="classificationInfo">El pipeline mostrará aquí si el enunciado/opciones son texto o figura.</p>
+            <div class="crop-gallery" id="cropGallery"></div>
+          </article>
+        </section>
+
+        <div
+          class="column-resizer"
+          data-resizer="right"
+          role="separator"
+          aria-orientation="vertical"
+          aria-label="Ajustar anchura entre solución y chat"
+        ></div>
+
+        <aside class="panel chat-panel" aria-labelledby="chat-title">
+          <div class="chat-title">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M21 11.5a8.4 8.4 0 0 1-8.8 8.4 9.5 9.5 0 0 1-3.4-.7L3 21l1.9-5.4a8.1 8.1 0 0 1-.7-3.4A8.4 8.4 0 0 1 12.7 4 8.2 8.2 0 0 1 21 11.5Z" />
+            </svg>
+            <h2 id="chat-title">Chat sobre la resolución</h2>
+          </div>
+
+          <div class="chat-messages" id="chatMessages">
+            <div class="message-row ai-row">
+              <span class="mini-brain" aria-hidden="true">
+                <svg viewBox="0 0 48 48">
+                  <path d="M20.4 7c-3.1 0-5.7 2.3-6 5.4-3.5.3-6.1 3.2-6.1 6.8 0 1 .2 2 .7 2.9-2.1 1.5-3.5 3.8-3.5 6.6 0 4.1 3.2 7.5 7.2 7.9.7 2.7 3.2 4.8 6.2 4.8h3.2V7h-1.7Z" />
+                  <path d="M27.6 7c3.1 0 5.7 2.3 6 5.4 3.5.3 6.1 3.2 6.1 6.8 0 1-.2 2-.7 2.9 2.1 1.5 3.5 3.8 3.5 6.6 0 4.1-3.2 7.5-7.2 7.9-.7 2.7-3.2 4.8-6.2 4.8h-3.2V7h1.7Z" />
+                  <path d="M24 11v30M15 17c2.4.1 4.3 2 4.6 4.3M33 17c-2.4.1-4.3 2-4.6 4.3M14 29c1.8-.3 3.4.2 4.6 1.5M34 29c-1.8-.3-3.4.2-4.6 1.5" />
+                </svg>
+              </span>
+              <p class="chat-bubble ai-bubble">Cuando tengas una resolución, pregúntame cualquier duda sobre los pasos o la respuesta.</p>
+            </div>
+          </div>
+
+          <form class="chat-input" id="chatForm">
+            <label class="sr-only" for="chatQuestion">Pregunta</label>
+            <input id="chatQuestion" type="text" autocomplete="off" placeholder="Escribe tu pregunta..." />
+            <button type="submit" aria-label="Enviar pregunta">
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M4 4 21 12 4 20l3.7-8L4 4Zm3.7 8H21" />
+              </svg>
+            </button>
+          </form>
+        </aside>
+      </main>
+
+      <footer class="disclaimer">
+        MathVision AI puede cometer errores. Verifica siempre los pasos importantes y consulta a tu profesor si lo necesitas.
+      </footer>
+    </div>
+
+    <script>
+      window.MathJax = {
+        tex: {
+          inlineMath: [["$", "$"], ["\\(", "\\)"]],
+          displayMath: [["$$", "$$"], ["\\[", "\\]"]],
+          processEscapes: true,
+        },
+        startup: {
+          typeset: false,
+          ready() {
+            MathJax.startup.defaultReady();
+            document.dispatchEvent(new Event("mathjax-ready"));
+          },
+        },
+      };
+    </script>
+    <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+    <script defer src="app.js"></script>
+  </body>
+</html>

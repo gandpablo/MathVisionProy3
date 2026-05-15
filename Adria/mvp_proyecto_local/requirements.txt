@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+Pillow
+opencv-python-headless
+requests
+numpy
+ollama
+paddleocr
+pandas
